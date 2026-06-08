@@ -1,0 +1,184 @@
+{
+  "fonte": "Lucio Caracciolo - Intervista a Udine (9 maggio 2026)",
+  "data_estrazione": "2026-06-02",
+  "driver_di_attenzione": [
+    {
+      "id": "D01",
+      "nome": "Declino dell'impero globale americano",
+      "categoria": "Strutturale / Sistemico",
+      "descrizione_breve": "Gli Stati Uniti non sono più in grado di garantire l'ordine globale come dal 1945. L'impero americano, mai dichiarato ma religioso nella sua essenza, sta esaurendo la sua egemonia.",
+      "manifestazioni_osservabili": [
+        "Incapacità di chiudere le guerre che apre",
+        "Contestazione degli stretti (choke points)",
+        "Ammutinamenti o dissenso nelle forze armate",
+        "Perdita di credibilità come protettore europeo"
+      ],
+      "trend_osservato": "In accelerazione",
+      "orizzonte_temporale": "Decennale",
+      "parole_chiave_associate": ["fine impero", "declino USA", "egemonia", "ordine mondiale"]
+    },
+    {
+      "id": "D02",
+      "nome": "Scisma Occidente (USA vs Europa / Europa interna)",
+      "categoria": "Geopolitico / Alleanze",
+      "descrizione_breve": "Rottura dell'alleanza atlantica su più livelli: USA vs Europa, e paesi europei tra loro (es. Germania che agisce da sola).",
+      "manifestazioni_osservabili": [
+        "Strategie militari nazionali che ignorano i partner europei",
+        "Dichiarazioni pubbliche di ostilità tra leader (es. Trump vs Papa)",
+        "Riarmo europeo in ordine sparso",
+        "Minaccia USA di uscire dalla NATO"
+      ],
+      "trend_osservato": "In aumento",
+      "orizzonte_temporale": "Medio termine (2-5 anni)",
+      "parole_chiave_associate": ["NATO", "scisma", "riarmo europeo", "autonomia strategica"]
+    },
+    {
+      "id": "D03",
+      "nome": "Controllo degli stretti (choke points) come vulnerabilità esistenziale",
+      "categoria": "Geografico / Economico-militare",
+      "descrizione_breve": "La libertà di navigazione non è più garantita. Paesi come l'Italia, senza accesso diretto all'oceano, sono esposti alla chiusura o contestazione degli stretti.",
+      "manifestazioni_osservabili": [
+        "Attacchi a navi nel Mar Rosso (Bab el-Mandeb)",
+        "Tensione sullo Stretto di Hormuz",
+        "Presenza turca sullo Stretto di Sicilia",
+        "Dichiarazioni di chiusura o interdizione"
+      ],
+      "trend_osservato": "Critico / in deterioramento",
+      "orizzonte_temporale": "Immediato (mesi)",
+      "parole_chiave_associate": ["stretto", "choke point", "Hormuz", "Suez", "Medioceania"]
+    },
+    {
+      "id": "D04",
+      "nome": "Rivoluzione tecnologica militare (armi autonome e IA)",
+      "categoria": "Tecnologico / Militare",
+      "descrizione_breve": "Sviluppo di armi che decidono autonomamente il bersaglio senza intervento umano. Possibili eserciti di robot entro un decennio.",
+      "manifestazioni_osservabili": [
+        "Incontri riservati USA-Cina su armi autonome",
+        "Primo impiego documentato di un'arma autonoma",
+        "Dibattito pubblico su robot soldati"
+      ],
+      "trend_osservato": "Emergente",
+      "orizzonte_temporale": "Medio-lungo (5-10 anni)",
+      "parole_chiave_associate": ["IA", "armi autonome", "guerra dei robot", "AI militare"]
+    },
+    {
+      "id": "D05",
+      "nome": "Rivoluzione demografica asimmetrica",
+      "categoria": "Demografico / Sociale",
+      "descrizione_breve": "Declino demografico dell'Europa e crescita tumultuosa di Africa e Asia, con impatti su reclutamento militare, migrazioni e peso geopolitico.",
+      "manifestazioni_osservabili": [
+        "Crisi del reclutamento negli eserciti europei",
+        "Pressione migratoria come arma ibrida",
+        "Invecchiamento della popolazione nei paesi occidentali"
+      ],
+      "trend_osservato": "Lento ma strutturale",
+      "orizzonte_temporale": "Lungo termine (10-20 anni)",
+      "parole_chiave_associate": ["demografia", "invecchiamento", "migrazioni", "reclutamento"]
+    },
+    {
+      "id": "D06",
+      "nome": "Guerra come nevrosi (fatta per essere fatta, non per essere vinta)",
+      "categoria": "Filosofico-politico / Strategico",
+      "descrizione_breve": "Le guerre contemporanee non mirano alla vittoria decisiva, ma servono a fini interni (gloria del leader, coesione, affari).",
+      "manifestazioni_osservabili": [
+        "Conflitti che persistono senza obiettivi chiari",
+        "Leader che dichiarano vittorie impossibili",
+        "Uso della guerra per sospendere processi o crisi interne"
+      ],
+      "trend_osservato": "Cronico",
+      "orizzonte_temporale": "Persistente",
+      "parole_chiave_associate": ["guerra perpetua", "nevrosi", "gloria", "guerra per la guerra"]
+    },
+    {
+      "id": "D07",
+      "nome": "Leader come acceleratori di crisi strutturali",
+      "categoria": "Leadership / Psicologico",
+      "descrizione_breve": "I leader non causano le crisi ma le amplificano. La loro psicologia, interessi privati e religione personale contano sempre di più.",
+      "manifestazioni_osservabili": [
+        "Trump: commistione tra potere pubblico e impero privato",
+        "Putin: paura visibile (richiesta tregua per parata)",
+        "Netanyahu: guerra come scudo giudiziario",
+        "Papa Prevost: primo Papa che loda la NATO"
+      ],
+      "trend_osservato": "In aumento (personalizzazione della politica)",
+      "orizzonte_temporale": "Immediato",
+      "parole_chiave_associate": ["Trump", "Putin", "Netanyahu", "Papa Prevost", "leadership"]
+    },
+    {
+      "id": "D08",
+      "nome": "Religione come mappa operativa per il potere territoriale",
+      "categoria": "Culturale / Ideologico",
+      "descrizione_breve": "La religione non è solo cultura ma guida decisioni territoriali concrete (es. America come missione divina, Israele biblico da Nilo a Eufrate).",
+      "manifestazioni_osservabili": [
+        "Mappe bibliche citate da ministri israeliani",
+        "Retorica religiosa nei discorsi ufficiali USA",
+        "Uso della religione per legittimare espansione territoriale"
+      ],
+      "trend_osservato": "In crescita",
+      "orizzonte_temporale": "Medio termine",
+      "parole_chiave_associate": ["religione", "missione divina", "Israele biblico", "eccezionalismo"]
+    },
+    {
+      "id": "D09",
+      "nome": "Fine del vincolo esterno per l'Europa",
+      "categoria": "Politico-strategico / Europeo",
+      "descrizione_breve": "Per 80 anni l'Europa non ha preso responsabilità strategiche grazie all'ombrello USA. Ora è disorientata ma potenzialmente può risvegliarsi.",
+      "manifestazioni_osservabili": [
+        "Dibattiti su esercito europeo",
+        "Germania che produce strategia nazionale senza alleati",
+        "Giovani più consapevoli e pronti ad agire (caso Italia citato)"
+      ],
+      "trend_osservato": "Inizio di transizione",
+      "orizzonte_temporale": "Medio termine (5 anni)",
+      "parole_chiave_associate": ["Europa", "vincolo esterno", "responsabilità", "autonomia"]
+    },
+    {
+      "id": "D10",
+      "nome": "Turchia come nuovo perno geopolitico",
+      "categoria": "Attore regionale / Alleanze",
+      "descrizione_breve": "La Turchia sta sostituendo l'Iran come principale antagonista di Israele e come potenza espansiva in Medio Oriente, Balcani, Asia centrale e Africa.",
+      "manifestazioni_osservabili": [
+        "Turchia presente a Damasco (via proxy)",
+        "Turchia a Tripoli e in Libia",
+        "Israele considera la Turchia il nemico N.1",
+        "Conflitto latente su Cipro (idrocarburi)"
+      ],
+      "trend_osservato": "In ascesa",
+      "orizzonte_temporale": "Immediato / Medio termine",
+      "parole_chiave_associate": ["Turchia", "Erdogan", "Cipro", "Damasco", "Israele"]
+    },
+    {
+      "id": "D11",
+      "nome": "Cina percepita come opportunità (non più minaccia)",
+      "categoria": "Economico / Percezione",
+      "descrizione_breve": "Tra gli imprenditori e gli analisti europei, la Cina è vista sempre più come opportunità economica di oggi, mentre l'America diventa il problema.",
+      "manifestazioni_osservabili": [
+        "Investimenti europei in Cina in aumento",
+        "Dichiarazioni pubbliche di leader europei filo-cinesi",
+        "Visite di alto livello (es. Trump a Pechino) che cambiano la narrativa"
+      ],
+      "trend_osservato": "Inversione di tendenza",
+      "orizzonte_temporale": "Immediato",
+      "parole_chiave_associate": ["Cina", "opportunità", "de-risking", "investimenti", "BRICS"]
+    },
+    {
+      "id": "D12",
+      "nome": "Italia come 'Medioceania' (vulnerabilità e potenziale inespresso)",
+      "categoria": "Nazionale / Geografico",
+      "descrizione_breve": "L'Italia è geograficamente al centro del Mediterraneo, che connette Atlantico, Indiano e Pacifico, ma non sfrutta questa posizione né a livello politico né portuale.",
+      "manifestazioni_osservabili": [
+        "Dipendenza dalla libertà degli stretti",
+        "Mancanza di una strategia marittima nazionale",
+        "Sistema portuale meno sviluppato di Spagna, Francia o Germania"
+      ],
+      "trend_osservato": "Stazionario (potenziale inespresso)",
+      "orizzonte_temporale": "Medio termine",
+      "parole_chiave_associate": ["Italia", "Mediterraneo", "Medioceania", "stretti", "porti"]
+    }
+  ],
+  "note_metodologiche": [
+    "Ogni driver può essere rilevato in più interventi nel tempo, assegnando un valore (es. -3 a +3) per tracciare trend.",
+    "Le 'manifestazioni osservabili' sono eventi concreti da cercare nei discorsi e nelle cronache.",
+    "L'orizzonte temporale suggerisce la frequenza di monitoraggio consigliata."
+  ]
+}

@@ -1,0 +1,1233 @@
+[
+  {
+    "video_id": "IxeZ4H8Xqb4",
+    "title": "L'Italia ha la geografia più potente d'Europa, ma non sa sfruttarla",
+    "url": "https://www.youtube.com/watch?v=IxeZ4H8Xqb4",
+    "published": "2025-09-11",
+    "channel": "Nova Lectio",
+    "analysis_confidence": "high",
+    "sintesi": "Episodio divulgativo sulla geografia dell'Italia che ne descrive tre macro-aree (continentale, peninsulare, insulare), risorse, vulnerabilità energetiche e sismiche e proiezione mediterranea. Il filo conduttore è il potenziale geografico inespresso del Paese, dipendente dalla libertà degli stretti e privo di una strategia marittima nazionale. Tocca marginalmente i choke points e la pressione migratoria via mare.",
+    "matched_drivers": [
+      {
+        "driver_id": "D12",
+        "rilevanza": 3,
+        "valutazione_trend": -1,
+        "manifestazioni_rilevate": [
+          "Dipendenza dalla libertà degli stretti",
+          "Mancanza di una strategia marittima nazionale",
+          "Sistema portuale meno sviluppato di Spagna, Francia o Germania"
+        ],
+        "evidenza": "«le nostre merci acquistate o vendute devono per forza di cose passare obbligatoriamente da due choke points, due stretti Gibilterra e Suez... se c'è una crisi internazionale si rischia potenzialmente l'isolamento»; «l'unico porto italiano tra i primi 10 in Europa... è quello di Gioia Tauro... ugualmente distanti dalle classifiche delle strutture portuali più utilizzate, come Rotterdam e Anversa»; «l'Italia si è finalmente dotata nel 2021 di una propria zona economica esclusiva, ma solo dal punto di vista teorico... cosa che ancora non è stata fatta»; «Le potenzialità in Italia le abbiamo e la nostra geografia è effettivamente potente. L'importante però è saperla sfruttare, anche se ad oggi non sembra l'abbiamo colta appieno»",
+        "contesto": "È il tema centrale e la tesi esplicita del video: vulnerabilità e potenziale inespresso dell'Italia come potenza mediterranea."
+      },
+      {
+        "driver_id": "D03",
+        "rilevanza": 2,
+        "valutazione_trend": -1,
+        "manifestazioni_rilevate": [
+          "Attacchi a navi nel Mar Rosso (Bab el-Mandeb)"
+        ],
+        "evidenza": "«le nostre merci... devono per forza di cose passare obbligatoriamente da due choke points, due stretti Gibilterra e Suez... Lo si è visto con gli huti nello stretto di Babel Mandeb, lì dove si incontrano le acque dell'oceano indiano con quelle del Mar Rosso, le quali a loro volta risalgono verso il canale di Suez»",
+        "contesto": "I choke points sono presentati come vulnerabilità strutturale del commercio italiano; citato esplicitamente l'episodio degli Houthi a Bab el-Mandeb."
+      },
+      {
+        "driver_id": "D05",
+        "rilevanza": 1,
+        "valutazione_trend": 0,
+        "manifestazioni_rilevate": [
+          "Pressione migratoria come arma ibrida"
+        ],
+        "evidenza": "«La vicinanza delle coste salentine con quelle albanesi ha favorito nel 97 un massiccio afflusso di immigrati dall'Albania... Negli anni più recenti invece è la questione legata agli sbarchi a Lampedusa... l'immigrazione clandestina riguarda anche le coste siciliane e calabresi»",
+        "contesto": "L'immigrazione è citata solo come uno dei quattro elementi del rapporto conflittuale con il mare, in chiave descrittiva e non come arma ibrida deliberata.",
+        "note": "La manifestazione scelta è approssimativa: il video tratta l'immigrazione come fenomeno geografico/logistico, non esplicitamente come strumento di guerra ibrida."
+      }
+    ],
+    "entita_chiave": {
+      "persone": [],
+      "luoghi": [
+        "Italia",
+        "Pianura Padana",
+        "Alpi",
+        "Appennini",
+        "Sicilia",
+        "Sardegna",
+        "Mediterraneo",
+        "Stretto di Gibilterra",
+        "Canale di Suez",
+        "Stretto di Bab el-Mandeb",
+        "Mar Rosso",
+        "Lampedusa",
+        "Albania",
+        "Gioia Tauro",
+        "Genova",
+        "La Spezia",
+        "Trieste",
+        "Basilicata (Val d'Agri)",
+        "Antartide (stazione Mario Zucchelli)"
+      ],
+      "organizzazioni": [
+        "NATO",
+        "Unione Europea",
+        "Marina Militare Italiana",
+        "OCSE"
+      ]
+    },
+    "citazioni_notevoli": [
+      "L'Italia con la sua forma stivale fa da ponte nel Mediterraneo... il paese dei tre mari, cioè Tirreno, Adriatico e Ionio.",
+      "le nostre merci... devono per forza di cose passare obbligatoriamente da due choke points, due stretti Gibilterra e Suez, che significa che se c'è una crisi internazionale si rischia potenzialmente l'isolamento.",
+      "Le potenzialità in Italia le abbiamo e la nostra geografia è effettivamente potente. L'importante però è saperla sfruttare, anche se ad oggi non sembra l'abbiamo colta appieno."
+    ],
+    "temi_emergenti": [
+      "Dipendenza energetica strutturale (import del 90% del petrolio e 96% del gas)",
+      "Materie prime critiche e dipendenza dalla Cina; miniere dismesse da riaprire (terre rare, litio)",
+      "Rischio sismico come malus geografico (Appennini, placca africana)",
+      "Rischio siccità e ritiro dei ghiacciai alpini",
+      "Dualismo geografico Est-Ovest oltre al divario Nord-Sud",
+      "Forza dell'agroalimentare e del settore servizi nel PIL",
+      "Vulnerabilità difensiva in caso di superamento della Marina e delle Alpi; basi USA strategiche (Aviano, Ghedi, Sigonella) con nuclear sharing NATO",
+      "Contenziosi sulla Zona Economica Esclusiva con Croazia, Algeria e Francia"
+    ],
+    "note": "Video a taglio prevalentemente geografico-divulgativo; il driver D12 ne costituisce la tesi portante. D03 è trattato in modo concreto ma circoscritto al passaggio sui commerci. La Cina compare come fonte di dipendenza per le materie prime (opposto al framing del driver D11, perciò non incluso). La Turchia (D10) non è menzionata. Le basi USA e il nuclear sharing NATO sono citati in chiave difensiva, senza tematizzare il declino imperiale (D01), perciò non inclusi per ancoraggio alle prove."
+  },
+  {
+    "video_id": "F-dBBOxEqE0",
+    "title": "Perché USA e Israele hanno davvero attaccato l'Iran",
+    "url": "https://www.youtube.com/watch?v=F-dBBOxEqE0",
+    "published": "2026-03-08",
+    "channel": "Nova Lectio",
+    "analysis_confidence": "high",
+    "sintesi": "Il video smonta la giustificazione ufficiale (nucleare iraniano) dell'attacco USA-Israele del 28 febbraio 2026 articolando cinque strati di motivazioni reali: strategico-militare, economico, contrasto ai rivali globali (Cina e Russia), politica interna e ideologico. L'analisi ripercorre la demolizione sistematica triennale dell'asse della resistenza iraniano e mette in guardia dal ripetere l'errore Iraq 2003, dove la vittoria militare non ha chiuso il dossier geopolitico.",
+    "matched_drivers": [
+      {
+        "driver_id": "D01",
+        "rilevanza": 2,
+        "valutazione_trend": -2,
+        "manifestazioni_rilevate": [
+          "Incapacità di chiudere le guerre che apre"
+        ],
+        "evidenza": "Il video cita ripetutamente l'Iraq 2003 come monito: 'La storia non ha mai premiato chi pensava che bastasse vincere una guerra per chiudere un dossier.' Si segnala inoltre la guerra di logoramento in corso ('quello che stiamo vedendo assomiglia sempre di più a una guerra di logoramento'), il debito federale oltre 35.000 miliardi di dollari, i sondaggi di Trump 'in vistoso calo' e la contraddizione tra 'America First' e miliardi di spesa bellica che 'qualcuno dovrà spiegare agli elettori dell'Ohio e del Michigan'.",
+        "contesto": "Il driver emerge in filigrana: USA costretti a entrare in guerra anche per non perdere il controllo narrativo dopo che Israele aveva avvisato di agire 'con o senza la copertura americana', sollevando la domanda 'Ma chi comanda qui? Tu o loro?'"
+      },
+      {
+        "driver_id": "D03",
+        "rilevanza": 3,
+        "valutazione_trend": -3,
+        "manifestazioni_rilevate": [
+          "Tensione sullo Stretto di Hormuz",
+          "Dichiarazioni di chiusura o interdizione"
+        ],
+        "evidenza": "'Il corridoio dello stretto di Hormutz, attraverso cui passa il 20% circa del commercio mondiale di petrolio' è citato esplicitamente come terzo obiettivo militare USA. L'Iran ha già risposto 'colpendo sistematicamente le infrastrutture dei paesi del Golfo e ha chiuso lo stretto di Holmut per fare pressione non tanto sugli americani, ma sui paesi arabi del Golfo.' Il controllo dei 'porti strategici sul Mar Caspio' è elencato tra gli obiettivi economici americani come 'nodo di transito tra Asia Centrale, Russia e Medio Oriente.'",
+        "contesto": "Stretto di Hormuz trattato sia come obiettivo militare (arsenale balistico iraniano che mette a rischio installazioni USA) sia come leva negoziale verso la Cina: 'la Cina importa circa il 40% del suo petrolio dall'area del Golfo e l'impossibilità di proteggere in maniera autonoma quelle rotte è una vulnerabilità molto potente che Washington vuole tenere sul tavolo.'"
+      },
+      {
+        "driver_id": "D04",
+        "rilevanza": 2,
+        "valutazione_trend": -2,
+        "manifestazioni_rilevate": [
+          "Primo impiego documentato di un'arma autonoma",
+          "Dibattito pubblico su robot soldati"
+        ],
+        "evidenza": "'Scendere in guerra è un ottimo modo per testare sul campo le armi che sono sempre di più basate sull'intelligenza artificiale. Antropic e Palantir sono in questo momento due nomi chiave a oggi, ma a breve vedremo anche Open AI.' Si evidenzia inoltre l'asimmetria economica dei droni: 'Uno Shah 136 costa qualche migliaio di euro. Il missile intercettore, invece, ne vale centinaia di migliaia. C'è una grossa asimmetria economica.'",
+        "contesto": "Il tema è introdotto come motivazione israeliana ('testare le armi sul campo') e come elemento strutturale del conflitto, non come dibattito etico o incontro diplomatico; il riferimento ad Anthropic è probabilmente al sistema AI di difesa Palantir, non all'azienda IA, ma è citato testualmente senza chiarimento."
+      },
+      {
+        "driver_id": "D06",
+        "rilevanza": 2,
+        "valutazione_trend": -2,
+        "manifestazioni_rilevate": [
+          "Conflitti che persistono senza obiettivi chiari",
+          "Leader che dichiarano vittorie impossibili",
+          "Uso della guerra per sospendere processi o crisi interne"
+        ],
+        "evidenza": "'C'è una differenza abissale tra lista degli obiettivi, quelli veri, e i risultati conseguiti e quella differenza la vedremo nei prossimi mesi e anni.' La guerra è descritta come strumento per 'sospendere i processi politici interni' (Netanyahu) e per 'distogliere l'attenzione' (Trump). L'attuale conflitto 'assomiglia sempre di più a una guerra di logoramento' senza esito definito. Iraq 2003 citato come precedente di vittoria militare senza chiusura del dossier.",
+        "contesto": "Il driver è trattato in modo analitico: l'autore non usa la categoria 'guerra-nevrosi' ma descrive esattamente quella dinamica strutturale nella sezione sulle motivazioni di politica interna di entrambi i paesi."
+      },
+      {
+        "driver_id": "D07",
+        "rilevanza": 3,
+        "valutazione_trend": -3,
+        "manifestazioni_rilevate": [
+          "Trump: commistione tra potere pubblico e impero privato",
+          "Netanyahu: guerra come scudo giudiziario"
+        ],
+        "evidenza": "Netanyahu: 'sotto processo per corruzione, frode e abuso di fiducia dal 2019. Una guerra esistenziale contro l'Iran non fa altro che unificare l'elettorato e sospendere i processi politici interni. È un meccanismo vecchio come la politica.' Trump: sondaggi 'in vistoso calo', debito federale 36.000 miliardi, 'patata bollente degli Epstein Files ancora incandescente', usa l'effetto rally-around-the-flag e il conflitto per 'giustificare un enorme rifinanziamento della base industriale della difesa.' Israele ha comunicato a Washington l'intenzione di agire 'con o senza copertura americana', forzando la mano di Trump.",
+        "contesto": "Il video dedica l'intera quarta macrocategoria ('politica interna') a questo driver, descrivendolo come sovrapposizione tra interesse personale dei leader e decisione strategica di Stato per entrambi i paesi."
+      },
+      {
+        "driver_id": "D08",
+        "rilevanza": 2,
+        "valutazione_trend": -1,
+        "manifestazioni_rilevate": [
+          "Mappe bibliche citate da ministri israeliani",
+          "Uso della religione per legittimare espansione territoriale"
+        ],
+        "evidenza": "'La visione messianica di un grande Israele, di un territorio israeliano che si estende dal Nilo all'Eufrate secondo alcune interpretazioni del testo biblico', portata avanti da 'Itamar Ben-Gvir e Bezalel Smotrich'. 'Che il conflitto venga letto da questi settori estremisti come parte di un disegno provvidenziale più ampio è qualcosa che i loro discorsi pubblici confermano senza che io debba interpretarlo per voi.' Netanyahu citato per essersi rivolto 'in maniera esplicita ai vari popoli dell'Iran, scomponendo il paese nelle sue componenti etniche.'",
+        "contesto": "L'autore distingue esplicitamente tra lettura metaforica (soft power, espansione economica) e letterale del Grande Israele, abbassando implicitamente la probabilità della seconda; include però la mappa Peters del 2006 (frammentazione etnica dell'Iran) come elemento circolato negli ambienti militari USA, collegando ideologia religiosa israeliana a pianificazione strategica americana."
+      }
+    ],
+    "entita_chiave": {
+      "persone": [
+        "Trump",
+        "Netanyahu",
+        "Nasrallah (eliminato set. 2024)",
+        "Assad (rovesciato dic. 2024)",
+        "Lavrov",
+        "Paul Krugman",
+        "Marco Rubio",
+        "Ted Cruz",
+        "Dick Cheney",
+        "Donald Rumsfeld",
+        "Richard Perle",
+        "Meir Javendafar",
+        "Ralph Peters",
+        "Itamar Ben-Gvir",
+        "Bezalel Smotrich"
+      ],
+      "luoghi": [
+        "Iran",
+        "Israele",
+        "Gaza",
+        "Libano",
+        "Siria",
+        "Iraq",
+        "Yemen",
+        "Kuwait",
+        "Arabia Saudita",
+        "Emirati Arabi",
+        "Qatar",
+        "Bahrain",
+        "Afghanistan",
+        "Pakistan",
+        "Stretto di Hormuz",
+        "Mar Caspio",
+        "Golfo Persico",
+        "Hamedan",
+        "Ucraina",
+        "Taiwan",
+        "Ohio",
+        "Michigan",
+        "Odessa"
+      ],
+      "organizzazioni": [
+        "Hamas",
+        "Hezbollah",
+        "Pasdaran",
+        "Houthi",
+        "PNAC (Project for the New American Century)",
+        "FDD (Foundation for Defense of Democracies)",
+        "American Enterprise Institute",
+        "NIOC (National Iranian Oil Company)",
+        "BRICS",
+        "GCC (Consiglio di cooperazione del Golfo)",
+        "Palantir",
+        "Anthropic",
+        "OpenAI",
+        "OPEC",
+        "Nasdaq",
+        "Al Jazeera"
+      ]
+    },
+    "citazioni_notevoli": [
+      "'Il programma nucleare era già praticamente distrutto dal giugno 2025.' — Meir Javendafar a Euronews, 3 marzo",
+      "'Uno Shah 136 costa qualche migliaio di euro. Il missile intercettore, invece, ne vale centinaia di migliaia. C'è una grossa asimmetria economica.'",
+      "'Scendere in guerra è un ottimo modo per testare sul campo le armi che sono sempre di più basate sull'intelligenza artificiale. Antropic e Palantir sono in questo momento due nomi chiave.'",
+      "'C'è una differenza abissale tra lista degli obiettivi, quelli veri, e i risultati conseguiti e quella differenza la vedremo nei prossimi mesi e anni.'",
+      "'L'Iraq del 2003 è un monito. La storia non ha mai premiato chi pensava che bastasse vincere una guerra per chiudere un dossier.'",
+      "'Qualcuno dovrà spiegare agli elettori dell'Ohio e del Michigan come si conciliano [America First e miliardi di spesa bellica].'"
+    ],
+    "temi_emergenti": [
+      "De-dollarizzazione come casus belli economico: Iran commerciava idrocarburi in yuan e rubli, partecipando al processo di de-dollarizzazione costruito da Cina e Russia",
+      "Litio iraniano: giacimenti scoperti nel 2023 nella regione di Hamedan con stime preliminari tra i più grandi al mondo",
+      "Privatizzazione NIOC: 157 miliardi di barili di riserve accertate come obiettivo di controllo idrocarburifero occidentale",
+      "Accordi di Abramo e normalizzazione israelo-arabo-saudita: funzionano solo con Iran fuori dai giochi; Qatar costretto ad abbandonare ambiguità diplomatica",
+      "Contenimento Via della Seta cinese: accordo di cooperazione Iran-Cina 2021 da 400 miliardi di dollari come obiettivo da sabotare",
+      "Corridoio nord-sud India-Europa (via Iran e Russia) come infrastruttura logistica da neutralizzare",
+      "Frammentazione etnica dell'Iran come obiettivo ideologico: mappa del colonnello Ralph Peters (2006) circolata in ambienti militari USA",
+      "Contratti di ricostruzione post-bellica stimati in oltre 420 miliardi di dollari (Iran tre volte l'Iraq del 2003)",
+      "Iran come hub per basi militari permanenti USA: posizionamento geografico su Golfo Persico, Mar Caspio, frontiere con Afghanistan, Pakistan, Iraq",
+      "Indebolimento della filiera tecnologico-militare russo-iraniana (droni Shahed, componenti elettronici aggirati dalle sanzioni) come effetto collaterale favorevole per l'Ucraina"
+    ],
+    "note": "Il video è esplicitamente presentato come 'parte 2' (la parte 1 analizza come la guerra è stata venduta mediaticamente). L'autore adotta una prospettiva critica ma non anti-israeliana né anti-americana in senso ideologico: la struttura argomentativa è quella dell'analisi degli interessi stratificati. Il riferimento ad 'Anthropic' nel contesto delle armi AI appare un errore del parlato (probabilmente intende un sistema AI militare associato a Palantir, non l'azienda AI Anthropic); il dato è riportato fedelmente. La data dell'attacco principale (28 febbraio 2026) e quella della 'guerra dei 12 giorni' (giugno 2025) sono elementi di un contesto narrativo futuro rispetto alla data di pubblicazione dichiarata — coerente con il quadro del video come analisi di eventi già accaduti al momento della pubblicazione (8 marzo 2026)."
+  },
+  {
+    "video_id": "kkw_nd8SynE",
+    "title": "Perché invadere l'Iran è un suicidio",
+    "url": "https://www.youtube.com/watch?v=kkw_nd8SynE",
+    "published": "2026-04-02",
+    "channel": "Nova Lectio",
+    "analysis_confidence": "high",
+    "sintesi": "Il video argomenta sistematicamente perché un'operazione di terra statunitense in Iran — in particolare l'occupazione di Kharg Island o delle isole nello Stretto di Hormuz — sarebbe militarmente illogica e strategicamente suicida. L'analisi intreccia la geografia difensiva iraniana, i precedenti storici fallimentari (Iraq, Afghanistan, Vietnam, URSS), il costo-opportunità rispetto alla competizione con la Cina, e il rischio di accelerare la dedollarizzazione del commercio energetico. La tesi centrale è che gli USA stiano scavandosi la fossa replicando gli stessi errori imperiali del passato senza avere un obiettivo finale definibile.",
+    "matched_drivers": [
+      {
+        "driver_id": "D01",
+        "rilevanza": 3,
+        "valutazione_trend": -3,
+        "manifestazioni_rilevate": [
+          "Incapacità di chiudere le guerre che apre",
+          "Contestazione degli stretti (choke points)"
+        ],
+        "evidenza": "«l'Iran non sarebbe la fine della guerra, ma l'inizio del declino di un impero»; «Gli Stati Uniti lo hanno fatto in Vietnam, in Afghanistan, in Iraq, anche in Corea in maniera indiretta»; «ogni trilione speso per un pantano in Iran è un trilione che non va alla vera partita di lungo termine»",
+        "contesto": "Il declino imperiale americano è la tesi portante del video. L'incapacità di definire un obiettivo finale, i 13 morti già registrati, le basi regionali sotto attacco e i precedenti di conflitti persi o irrisolti vengono presentati come tappe di un medesimo arco di declino strutturale."
+      },
+      {
+        "driver_id": "D02",
+        "rilevanza": 1,
+        "valutazione_trend": 0,
+        "manifestazioni_rilevate": [],
+        "evidenza": "«Rubio stesso il 27 marzo ha dichiarato ai giornalisti dopo il G7 in Francia» che i boots on the ground non servono — unico riferimento al contesto europeo/atlantico.",
+        "contesto": "Il G7 in Francia è citato solo come cornice per la dichiarazione di Rubio; non viene analizzato lo scisma USA-Europa né il dibattito atlantico sulla guerra.",
+        "note": "Rilevanza minima: il G7 è menzionato incidentalmente. Nessuna manifestazione della lista del driver è direttamente trattata."
+      },
+      {
+        "driver_id": "D03",
+        "rilevanza": 3,
+        "valutazione_trend": -3,
+        "manifestazioni_rilevate": [
+          "Tensione sullo Stretto di Hormuz",
+          "Attacchi a navi nel Mar Rosso (Bab el-Mandeb)",
+          "Dichiarazioni di chiusura o interdizione"
+        ],
+        "evidenza": "«lo stretto di Hormuz resta in gran parte paralizzato con traffico minimo ed esportazioni energetiche bloccate»; «sullo sfondo rimane il pericolo che anche Bab el-Mandeb torni sotto pressione, visto che gli Houthi hanno dichiarato di essere pronti a intervenire fianco a fianco dell'Iran»; «all'Iran basta rendere il Golfo ingestibile abbastanza a lungo»",
+        "contesto": "Kharg Island — da cui passa la grande maggioranza dell'export di greggio iraniano — è il nodo geografico centrale del video. La paralisi di Hormuz è presentata come già in atto con il Brent a 115 dollari al barile; Bab el-Mandeb è indicato come potenziale secondo fronte."
+      },
+      {
+        "driver_id": "D04",
+        "rilevanza": 1,
+        "valutazione_trend": -1,
+        "manifestazioni_rilevate": [],
+        "evidenza": "«gli sciami di droni iraniani stanno già imponendo costi pesanti agli Stati Uniti»; «il Pentagono rischia di perdere questa guerra continuando a utilizzare soltanto intercettori costosissimi per abbattere i droni Shahed»",
+        "contesto": "I droni vengono trattati come elemento tattico-economico (guerra dell'economia dei costi), non come rivoluzione tecnologica autonoma nel senso del driver. Nessun riferimento a IA o armi autonome nel senso stretto.",
+        "note": "Il driver è sfiorato nella dimensione del drone-swarm come arma a basso costo contro intercettori costosi; manca la dimensione dell'autonomia e dell'IA. Manifestazioni specifiche della lista del driver (incontri USA-Cina su armi autonome, primo impiego documentato) sono assenti."
+      },
+      {
+        "driver_id": "D06",
+        "rilevanza": 3,
+        "valutazione_trend": -2,
+        "manifestazioni_rilevate": [
+          "Conflitti che persistono senza obiettivi chiari",
+          "Uso della guerra per sospendere processi o crisi interne"
+        ],
+        "evidenza": "«La domanda che mezza Washington evita con cura di farsi è qual è l'obiettivo finale?»; «in quel caso servirebbero all'impressione di controllo, al voler dare l'idea che si sta finendo il lavoro e quando si manda gente a morire per la propaganda di solito finisce male»; «una guerra voluta da Israele finisca per essere combattuta a viaerra dagli Stati Uniti»",
+        "contesto": "Il video costruisce esplicitamente la tesi che l'operazione terrestre non risponda a un obiettivo strategico definibile ma a una logica di segnalazione politica interna e di propaganda. L'assenza di end-game è presentata come la patologia centrale della decisione."
+      },
+      {
+        "driver_id": "D07",
+        "rilevanza": 2,
+        "valutazione_trend": -2,
+        "manifestazioni_rilevate": [
+          "Trump: commistione tra potere pubblico e impero privato",
+          "Netanyahu: guerra come scudo giudiziario"
+        ],
+        "evidenza": "«Trump ha vinto le elezioni dicendo che non avrebbe mai innescato una guerra»; «Trump stesso ha parlato pubblicamente di take the oil, cioè esattamente lo stesso slogan che aiuta i Pasdaran iraniani a mobilitare consenso»; «una guerra voluta da Israele finisca per essere combattuta a viaerra dagli Stati Uniti»",
+        "contesto": "Trump è presentato come attore che accelera la crisi con slogan controproducenti e contraddizioni tra promesse elettorali e azioni. Netanyahu non è nominato direttamente ma è implicito nel riferimento alla guerra 'voluta da Israele'. Il driver è secondario rispetto all'analisi sistemica."
+      },
+      {
+        "driver_id": "D11",
+        "rilevanza": 2,
+        "valutazione_trend": 0,
+        "manifestazioni_rilevate": [
+          "Investimenti europei in Cina in aumento",
+          "Dichiarazioni pubbliche di leader europei filo-cinesi"
+        ],
+        "evidenza": "«ogni trilione speso per un pantano in Iran è un trilione che non va alla vera partita di lungo termine a cui invece i cinesi stanno già giocando»; «la crisi americana rafforza l'immagine di una Cina come partner più prudente»; «almeno alcuni pagamenti di transito sarebbero già avvenuti in yuan cinesi — chiamatelo test di dedollarizzazione selettiva»; «Pechino si muove da anni cercando di apparire come la potenza che ha più interesse alla stabilità»",
+        "contesto": "La Cina è presentata come il vero beneficiario strategico della guerra USA-Iran: accumula credibilità presso i petrostati del Golfo senza pagare costi militari, avanza nella dedollarizzazione del commercio energetico e consolida la propria presa commerciale e monetaria sulla regione. Il driver è trattato come tema secondario ma strutturato.",
+        "note": "Le manifestazioni della lista del driver riguardano investimenti europei e leader europei filo-cinesi; nel video la dinamica è invece centrata sui petrostati del Golfo che si rivolgono alla Cina. Adattamento contestuale annotato."
+      }
+    ],
+    "entita_chiave": {
+      "persone": [
+        "Donald Trump",
+        "Marco Rubio",
+        "Mohammad Baqer Qalibaf",
+        "Donald Rumsfeld",
+        "Saddam Hussein",
+        "Bin Salman (citato sarcasticamente)"
+      ],
+      "luoghi": [
+        "Iran",
+        "Kharg Island",
+        "Stretto di Hormuz",
+        "Golfo Persico",
+        "Arabia Saudita",
+        "Kuwait",
+        "Bahrain",
+        "Emirati Arabi Uniti",
+        "Bab el-Mandeb",
+        "Iraq",
+        "Afghanistan",
+        "Teheran",
+        "Isfahan",
+        "Mashhad",
+        "Catena degli Zagros",
+        "Alborz",
+        "Dashte Kavir",
+        "Dashte Lut",
+        "Keshm",
+        "La RAC",
+        "Base Prince Sultan"
+      ],
+      "organizzazioni": [
+        "Pentagono",
+        "82ª Divisione aviotrasportata USA",
+        "Pasdaran (IRGC)",
+        "Houthi",
+        "AIEA (Agenzia Internazionale per l'Energia Atomica)",
+        "G7",
+        "Washington Post",
+        "Foreign Policy",
+        "Reuters",
+        "AP"
+      ]
+    },
+    "citazioni_notevoli": [
+      "«l'Iran non sarebbe la fine della guerra, ma l'inizio del declino di un impero»",
+      "«ogni trilione speso per un pantano in Iran è un trilione che non va alla vera partita di lungo termine a cui invece i cinesi stanno già giocando»",
+      "«la domanda che mezza Washington evita con cura di farsi è qual è l'obiettivo finale?»",
+      "«quando si manda gente a morire per la propaganda di solito finisce male»",
+      "«l'Iran è una fortezza naturale» (Foreign Policy, 23 marzo 2026)",
+      "«se questa la chiamano vittoria, Bin Salman è Cenerentola»",
+      "«prendere un'isola come Kharg è facile sulla carta, ma difenderla no — finirebbe per diventare una trappola perfetta per topolini»"
+    ],
+    "temi_emergenti": [
+      "Nucleare iraniano come conseguenza ineluttabile: con l'AIEA esclusa dai controlli, il video argomenta che l'Iran seguirà il modello nordcoreano e raggiungerà la capacità atomica come unica garanzia di sopravvivenza del regime",
+      "Dedollarizzazione selettiva del commercio energetico: pagamenti in yuan già avvenuti nel Golfo Persico come test strutturale, non episodio isolato",
+      "Economia di guerra asimmetrica: logica cinica per cui la fanteria serve ad 'assorbire logoramento' al posto di intercettori costosi — stessa logica russa in Ucraina",
+      "Iran come 'paese martire' potenziale: l'occupazione territoriale rischierebbe di ricompattare l'ostilità regionale anti-USA/Israele attorno a Teheran, effetto opposto all'obiettivo dichiarato",
+      "Petrodollaro come sistema dipendente dalla percezione di sicurezza USA nel Golfo: riduzione della presenza militare americana eroderebbe una delle basi geopolitiche della centralità del dollaro nel commercio energetico",
+      "Precedenti storici come pattern sistematico: Vietnam, Corea, Iraq 2003, Afghanistan 2001 — il video costruisce una tipologia di guerre imperiali senza obiettivo finale",
+      "Guerra per impressione di controllo: operazioni terrestri come segnale politico interno piuttosto che strumento strategico"
+    ],
+    "note": "Il video è prodotto in un contesto in cui il conflitto USA-Iran è già in corso (aprile 2026), con operazioni aeree americane e israeliane in atto da circa un mese, 13 morti americani confermati e il Brent a 115 dollari. L'analisi è dichiaratamente di parte (antintervenzionista) ma ben argomentata con fonti citate (Washington Post, Foreign Policy, Reuters, AP, dichiarazioni Rubio al G7). Il driver D05 (demografia asimmetrica) è sfiorato nella citazione della popolazione iraniana (90 milioni vs 25 milioni Iraq 2003) ma solo come argomento militare sulla scala dell'invasione, non come analisi del driver demografico strutturale; escluso per insufficienza di evidenza semantica specifica."
+  },
+  {
+    "video_id": "P0PF8r7i6Zw",
+    "title": "Cosa c'è di così prezioso in Groenlandia e perché Trump la vuole: un ripasso geopolitico",
+    "url": "https://www.youtube.com/watch?v=P0PF8r7i6Zw",
+    "published": "2026-01-13",
+    "channel": "Geopop",
+    "analysis_confidence": "high",
+    "sintesi": "Il video analizza perché gli USA considerano la Groenlandia un asset strategico irrinunciabile: convergenza di risorse minerarie rare, rotte artiche emergenti e la base militare di Pituffik. La competizione con la Cina per le terre rare e con la Russia nell'Artico è presentata come motore principale dell'interesse americano, mentre Danimarca e Groenlandia respingono con fermezza qualsiasi idea di cessione territoriale invocando il principio di autodeterminazione dei popoli.",
+    "matched_drivers": [
+      {
+        "driver_id": "D01",
+        "rilevanza": 2,
+        "valutazione_trend": -1,
+        "manifestazioni_rilevate": [
+          "Contestazione degli stretti (choke points)"
+        ],
+        "evidenza": "\"Il mondo di oggi non è solamente una competizione tra eserciti, ma è una competizione tra catene di approvvigionamento. [...] oggi una parte enorme della filiera globale è concentrata in Cina. Quindi per Washington questo non è solamente un problema economico, ma è un problema di sicurezza nazionale.\"",
+        "contesto": "La dipendenza USA dalle terre rare cinesi e la necessità di diversificare tramite la Groenlandia riflettono una vulnerabilità strutturale della potenza americana: non è più in grado di garantire autonomamente la propria filiera militare-industriale."
+      },
+      {
+        "driver_id": "D02",
+        "rilevanza": 2,
+        "valutazione_trend": -2,
+        "manifestazioni_rilevate": [
+          "Dichiarazioni pubbliche di ostilità tra leader (es. Trump vs Papa)"
+        ],
+        "evidenza": "\"il governo della Groenlandia e il governo della Danimarca hanno ribadito più volte con fermezza che la Groenlandia non è in vendita. Trattare l'isola e i suoi 56-57.000 cittadini come merci di scambio è considerato un approccio coloniale anacronistico e inaccettabile dalle autorità locali ed europee.\"",
+        "contesto": "L'approccio di Trump a un territorio NATO (Danimarca) è esplicitamente rigettato come colonialismo anacronistico, generando una frattura diplomatica visibile tra Washington e i partner europei."
+      },
+      {
+        "driver_id": "D03",
+        "rilevanza": 2,
+        "valutazione_trend": -1,
+        "manifestazioni_rilevate": [],
+        "evidenza": "\"La Grenlandia si trova in una posizione chiave tra Atlantico e Artico e controllare quello spazio significa monitorare traffici, comunicazioni, flussi commerciali e potenziali rotte militari. [...] In caso di crisi globale, quello spazio diventa fondamentale per intercettare, per monitorare e eventualmente reagire.\"",
+        "contesto": "Il video introduce le rotte artiche come chokepoint emergente di importanza crescente, distinto dai chokepoints tradizionali già sotto pressione (Mar Rosso, Hormuz).",
+        "note": "Nessuna delle manifestazioni elencate nel driver compare nel transcript. Nuova manifestazione da aggiungere: rotte artiche come chokepoint emergente per effetto della fusione dei ghiacci. La Pituffik Space Base è descritta come nodo di sorveglianza artica, elemento analogo per funzione ai controlli degli stretti."
+      },
+      {
+        "driver_id": "D07",
+        "rilevanza": 1,
+        "valutazione_trend": -1,
+        "manifestazioni_rilevate": [
+          "Trump: commistione tra potere pubblico e impero privato"
+        ],
+        "evidenza": "\"la sua amministrazione sta trattando la Groenlandia come una priorità strategica, cercando di legarla economicamente e militarmente agli Stati Uniti per allontanarla dall'influenza di Pechino e Mosca nell'Artico. [...] l'idea di Trump di acquistare una terra con i suoi abitanti non è nuova, ma appartiene a un'epoca diversa.\"",
+        "contesto": "Trump è citato come agente che riporta in scena un frame ottocentesco (acquisizione territoriale) in un contesto normativo che lo rende anacronistico, accelerando tensioni con alleati europei.",
+        "note": "La manifestazione 'commistione tra potere pubblico e impero privato' è mappata in modo indiretto: il transcript non cita affari privati di Trump, ma il suo trattare un territorio NATO come merce di scambio riflette la logica da deal-maker che caratterizza il driver. Rilevanza abbassata a 1 per questa ambiguità."
+      },
+      {
+        "driver_id": "D11",
+        "rilevanza": 2,
+        "valutazione_trend": -1,
+        "manifestazioni_rilevate": [],
+        "evidenza": "\"Le terre rare sono fondamentali per i magneti, per radar, per satelliti, per sistemi d'arma, batterie, motori elettrici e tanto altro. E oggi una parte enorme della filiera globale è concentrata in Cina.\"",
+        "contesto": "Il driver è attivato in senso speculare: è proprio il dominio cinese nelle catene di approvvigionamento delle terre rare che spinge Washington verso la Groenlandia come alternativa. La concentrazione cinese è presentata come problema di sicurezza nazionale USA.",
+        "note": "Nessuna delle manifestazioni elencate nel driver (investimenti europei in Cina, leader europei filo-cinesi, visite di alto livello a Pechino) compare nel transcript. La Cina è inquadrata come minaccia/concorrente, non come opportunità. Il driver è comunque rilevante come sfondo strutturale che spiega l'urgenza strategica americana verso la Groenlandia."
+      }
+    ],
+    "entita_chiave": {
+      "persone": [
+        "Donald Trump",
+        "Eric il Rosso",
+        "Harry Truman"
+      ],
+      "luoghi": [
+        "Groenlandia",
+        "Danimarca",
+        "Artico",
+        "Alaska",
+        "Isole Marshall",
+        "Palao",
+        "Indie occidentali danesi",
+        "Cina",
+        "Russia"
+      ],
+      "organizzazioni": [
+        "Pituffik Space Base",
+        "Governo della Groenlandia",
+        "Parlamento della Groenlandia",
+        "Governo della Danimarca",
+        "Washington"
+      ]
+    },
+    "citazioni_notevoli": [
+      "Il mondo di oggi non è solamente una competizione tra eserciti, ma è una competizione tra catene di approvvigionamento.",
+      "La Groenlandia non è una cassaforte aperta, è un territorio in cui ogni scelta sulle risorse è anche una scelta identitaria e politica.",
+      "Washington non ha bisogno di possedere formalmente la Groenlandia per trarne un vantaggio strategico. Ciò di cui ha di fatto bisogno è stabilità, accesso, cooperazione e allineamento geopolitico.",
+      "La Groenlandia è diventata centrale. Non è un'eccezione, è un laboratorio."
+    ],
+    "temi_emergenti": [
+      "Rotte artiche come nuovo asse strategico emergente: la fusione dei ghiacci artici ridisegna spazi di controllo marittimo e rotte commerciali intercontinentali",
+      "Transizione energetica come acceleratore della competizione geopolitica per le materie prime critiche (terre rare, cobalto, nichel, litio)",
+      "Principio di autodeterminazione dei popoli come limite normativo all'espansionismo territoriale nel XXI secolo",
+      "Modello COFA (Compact of Free Association) come alternativa moderna all'annessione: indipendenza formale con dipendenza difensiva ed economica",
+      "Soft power e influenza economica come strumenti di controllo geopolitico sostitutivi all'acquisizione territoriale formale",
+      "Cambiamento climatico come variabile geopolitica diretta: il ritiro dei ghiacci artici apre nuovi teatri di competizione strategica"
+    ],
+    "note": "Video didattico-divulgativo (canale Geopop, 708k views), non analitico in senso stretto: offre una panoramica geografica, geologica e geopolitica della Groenlandia senza prendere posizioni. D03 è rilevante ma le manifestazioni elencate nel driver (Mar Rosso, Hormuz, Stretto di Sicilia) non compaiono nel transcript; la rilevanza è attribuita alle rotte artiche come categoria emergente di chokepoint. Per D11 la Cina è presentata come minaccia dominante nelle filiere critiche, non come opportunità: il driver è incluso perché il dato strutturale è centrale al ragionamento del video. D12 (Italia) non è citata."
+  },
+  {
+    "video_id": "YVfTjg1U_44",
+    "title": "Perché a nessuno conviene un'Europa forte e unita",
+    "url": "https://www.youtube.com/watch?v=YVfTjg1U_44",
+    "published": "2026-01-19",
+    "channel": "Nova Lectio",
+    "analysis_confidence": "high",
+    "sintesi": "Il video argomenta che sia USA che Russia preferiscono un'Europa divisa: gli Stati Uniti vogliono un'Europa abbastanza forte da acquistare armi e gas americani, ma non così autonoma da rendersi indipendente; la Russia vuole trattare con singoli stati per riattivare flussi energetici senza la resistenza di un blocco unitario. Entrambi finanziano partiti euroscettici per frammentare l'UE dall'interno, mentre la classe dirigente europea amplifica questa debolezza con divisioni interne e incapacità decisionale. L'autore conclude che senza autonomia strategica comune l'Europa è destinata a restare pedina di potenze esterne.",
+    "matched_drivers": [
+      {
+        "driver_id": "D01",
+        "rilevanza": 2,
+        "valutazione_trend": -2,
+        "manifestazioni_rilevate": [
+          "Perdita di credibilità come protettore europeo"
+        ],
+        "evidenza": "Trump l'ha dichiarato più volte, non ci aiuterà più e se non raggiungeremo il 5% del PIL investito in difesa, la NATO, secondo lui, potrà dirsi clinicamente morta. Trump ha ripreso a trattare direttamente con Putin escludendo l'UE dal tavolo e ricordando bruscamente alla classe dirigente europea che la sua influenza strategica è molto più limitata di quanto ami raccontarsi.",
+        "contesto": "Il ritiro americano dall'impegno europeo è descritto come strutturale e codificato nella National Security Strategy, che trasforma la dipendenza europea in asset funzionale agli interessi USA piuttosto che in un vincolo di sicurezza reciproca."
+      },
+      {
+        "driver_id": "D02",
+        "rilevanza": 3,
+        "valutazione_trend": -3,
+        "manifestazioni_rilevate": [
+          "Riarmo europeo in ordine sparso",
+          "Minaccia USA di uscire dalla NATO",
+          "Dichiarazioni pubbliche di ostilità tra leader"
+        ],
+        "evidenza": "La National Security Strategy afferma a pagina 27 che 'la nostra strategia deve permettere all'Europa di reggersi in piedi da sola e operare come gruppo di stati sovrani allineati'. La Casa Bianca 'incoraggia i suoi alleati politici in Europa a promuovere la rinascita culturale europea e la crescente influenza dei partiti europei patriottici'. I leader europei sono divisi: Antonio Costa considera la strategia di Trump 'una minaccia inaccettabile', mentre Kaja Kallas dichiara che 'alcune critiche di Trump sono anche vere'. Sul dossier Ucraina, l'Italia e il Belgio si sono opposti all'uso dei fondi russi congelati, bloccando la Germania.",
+        "contesto": "L'intero video è costruito attorno alla convergenza di interessi USA-Russia nel mantenere l'Europa divisa. Il riarmo 'in ordine sparso' è esemplificato dall'unica partnership militare europea citata (Rheinmetall-Leonardo) e dal dibattito sulla leva in singoli paesi senza coordinamento comunitario."
+      },
+      {
+        "driver_id": "D05",
+        "rilevanza": 1,
+        "valutazione_trend": -1,
+        "manifestazioni_rilevate": [
+          "Crisi del reclutamento negli eserciti europei"
+        ],
+        "evidenza": "La National Security Strategy americana descrive l'Europa come 'in crisi economica e demografica, vicina al collasso culturale'. Il video menziona la reintroduzione della leva obbligatoria in Danimarca e la seria considerazione di questa possibilità in altri paesi europei tra cui l'Italia, come segnale implicito di difficoltà nel reclutamento volontario.",
+        "contesto": "La crisi demografica è citata come elemento del frame americano sull'Europa, non analizzata autonomamente come driver strutturale."
+      },
+      {
+        "driver_id": "D06",
+        "rilevanza": 1,
+        "valutazione_trend": -1,
+        "manifestazioni_rilevate": [
+          "Conflitti che persistono senza obiettivi chiari"
+        ],
+        "evidenza": "La guerra in Ucraina è descritta come conflitto in cui 'sia l'esercito russo che quello ucraino mostrano segni evidenti di logoramento' senza che nessuna parte abbia raggiunto obiettivi definitivi. Il video cita ironicamente Alberto Sordi: 'finché c'è guerra c'è speranza e soprattutto soldi', e osserva che 'il mondo continuerà sempre su questa traiettoria malsana di armarsi fino ai denti'.",
+        "contesto": "Il tema è evocato in chiave critica e parzialmente ironica, come sfondo della dipendenza europea dalle armi americane, non come analisi approfondita del driver."
+      },
+      {
+        "driver_id": "D07",
+        "rilevanza": 2,
+        "valutazione_trend": -2,
+        "manifestazioni_rilevate": [
+          "Trump: commistione tra potere pubblico e impero privato"
+        ],
+        "evidenza": "Trump è descritto come promotore di una strategia che mira a tenere l'Europa 'sotto controllo' vendendole armi e gas: 'Trump non vuole un'Europa debole, ma neanche un'Europa davvero autonoma, vuole una forza sotto controllo'. Putin è descritto come colui che ha finanziato sistematicamente partiti euroscettici in tutta Europa: 'il governo russo non ha risparmiato rubli nel finanziare partiti conservatori e di destra in tutta quanta Europa' (Le Pen, FPÖ, AfD, Lega).",
+        "contesto": "Entrambi i leader sono presentati come acceleratori consapevoli della frammentazione europea, agendo su crisi strutturali preesistenti attraverso interferenze politiche e finanziarie mirate."
+      },
+      {
+        "driver_id": "D09",
+        "rilevanza": 3,
+        "valutazione_trend": -1,
+        "manifestazioni_rilevate": [
+          "Dibattiti su esercito europeo",
+          "Germania che produce strategia nazionale senza alleati"
+        ],
+        "evidenza": "Il video argomenta che 'l'Europa deve sviluppare una visione comune, seria, autonoma perlomeno, oppure continuerà a dimostrare che Biden aveva ragione'. Cita un PIL UE di 20.000 miliardi e un potenziale esercito comune di 1,5 milioni di soldati, contrapposti alla realtà di un continente diviso. 'L'Unione Europea è l'unica entità attraverso cui noi europei possiamo continuare in qualche modo a essere politicamente rilevanti'. La Germania è citata per la scelta unilaterale di spegnere il nucleare aumentando la dipendenza energetica.",
+        "contesto": "La fine del vincolo esterno è trattata come opportunità strutturalmente disponibile ma politicamente mancata: l'Europa ha le risorse per l'autonomia strategica ma la sua classe dirigente è incapace di costruirla, restando intrappolata tra veto nazionali e miopia istituzionale."
+      },
+      {
+        "driver_id": "D12",
+        "rilevanza": 1,
+        "valutazione_trend": -1,
+        "manifestazioni_rilevate": [],
+        "evidenza": "L'Italia è citata tra i paesi che la Casa Bianca vorrebbe 'allontanare dall'Unione Europea' (in una bozza non confermata della NSS). La dipendenza energetica italiana è descritta esplicitamente: 'noi italiani ci affidiamo soprattutto a Stati Uniti e Qatar, Algeria e Azerbaigian per il gas naturale'. Il governo Meloni è descritto come non orientato al sabotaggio dell'UE, mosso da Mattarella a mantenere le direttive europee e atlantiche.",
+        "contesto": "L'Italia è discussa come caso specifico nella dinamica generale di frammentazione europea, non analizzata nella sua dimensione marittima o portuale. Nessuna delle manifestazioni ufficiali del D12 ('Medioceania', strategia marittima, sistema portuale) è esplicitamente trattata; la dipendenza dalle rotte marittime per il gas da Qatar e Algeria è implicita ma non tematizzata."
+      }
+    ],
+    "entita_chiave": {
+      "persone": [
+        "Donald Trump",
+        "Vladimir Putin",
+        "Joe Biden",
+        "Viktor Orbán",
+        "Marine Le Pen",
+        "Ursula von der Leyen",
+        "Kaja Kallas",
+        "Antonio Costa",
+        "Sergio Mattarella",
+        "Silvio Berlusconi"
+      ],
+      "luoghi": [
+        "Europa",
+        "Ucraina",
+        "Russia",
+        "Germania",
+        "Italia",
+        "Francia",
+        "Austria",
+        "Ungheria",
+        "Polonia",
+        "Spagna",
+        "Danimarca",
+        "Estonia",
+        "Lettonia",
+        "Lituania",
+        "Slovacchia",
+        "Repubblica Ceca",
+        "Crimea",
+        "Norvegia",
+        "Algeria",
+        "Qatar",
+        "Azerbaigian",
+        "Kazakistan"
+      ],
+      "organizzazioni": [
+        "Unione Europea",
+        "NATO",
+        "Casa Bianca",
+        "Commissione Europea",
+        "Consiglio Europeo",
+        "AfD",
+        "Vox",
+        "FPÖ",
+        "Lega",
+        "Rassemblement National",
+        "Russia Unita",
+        "Rheinmetall",
+        "Leonardo",
+        "SIPRI Stoccolma",
+        "Rosneft"
+      ]
+    },
+    "citazioni_notevoli": [
+      "La nostra strategia deve permettere all'Europa di reggersi in piedi da sola e operare come gruppo di stati sovrani allineati [NSS, pag. 27]",
+      "Trump non vuole un'Europa debole, ma neanche un'Europa davvero autonoma: vuole una forza sotto controllo",
+      "In geopolitica chi comanda troppo a lungo non resta neutrale, viene semplicemente deciso dagli altri, per non dire manipolato e divorato",
+      "Meno crediamo di poter essere uniti, almeno ideologicamente, più dimostriamo noi stessi di voler essere deboli",
+      "L'Unione Europea è l'unica entità attraverso cui noi europei possiamo continuare in qualche modo a essere politicamente rilevanti"
+    ],
+    "temi_emergenti": [
+      "Dipendenza energetica europea strutturale (60% petrolio, 90% gas importati) come vettore primario di debolezza geopolitica",
+      "Finanziamento russo sistematico di partiti euroscettici (Le Pen, FPÖ, AfD, Lega) come strumento di destabilizzazione dell'UE dall'interno",
+      "Astensionismo alle elezioni europee come segnale di crisi di legittimità (oltre 70% in Slovacchia, Rep. Ceca, Slovenia, Croazia)",
+      "Convergenza strutturale USA-Russia nell'interesse a mantenere l'Europa divisa, pur essendo rivali geopolitici tra loro",
+      "Dipendenza europea dalle armi americane (2/3 delle importazioni militari dei membri NATO europei dal 2015) come leva di controllo strategico"
+    ],
+    "note": "Il video è un'analisi geopolitica divulgativa che mescola dati verificabili (National Security Strategy dicembre 2025, statistiche SIPRI, PIL UE) con deduzioni esplicite dell'autore, segnalate come tali ('questa è una mia deduzione'). D12 è incluso a rilevanza 1 per la menzione esplicita della vulnerabilità italiana e della dipendenza energetica, ma la cornice 'Medioceania' è completamente assente. D11 è escluso perché la Cina è discussa come fonte di dipendenza per le terre rare e come rivale da contenere, non come opportunità. La NSS citata, datata dicembre 2025, è coerente con la data di pubblicazione del video (19 gennaio 2026)."
+  },
+  {
+    "video_id": "n3j0jYjabzQ",
+    "title": "Perché l'Italia NON funziona come il Nord Europa",
+    "url": "https://www.youtube.com/watch?v=n3j0jYjabzQ",
+    "published": "2025-11-30",
+    "channel": "Nova Lectio",
+    "analysis_confidence": "high",
+    "sintesi": "Il video ripercorre la tesi weberiana sull'etica protestante come incubatore di fiducia istituzionale, disciplina civica e sviluppo economico, confrontando sistematicamente Nord Europa e Italia attraverso dati su evasione fiscale, trasparenza, alfabetizzazione storica e fiducia nello Stato. L'autore mostra come l'Italia sconti un ritardo strutturale — l'eredità del 'familismo amorale' e di istituzioni percepite come entità ostili — rispetto a società nordiche dove la fiducia collettiva è il cardine del modello. Nega il determinismo culturale-genetico, suggerendo che il contesto istituzionale è modificabile ma richiede un cambiamento profondo.",
+    "matched_drivers": [
+      {
+        "driver_id": "D12",
+        "rilevanza": 3,
+        "valutazione_trend": -1,
+        "manifestazioni_rilevate": [],
+        "evidenza": "Il sommerso in Italia viene stimato all'11-12% del PIL secondo l'Istat; 'Il sistema italiano parte dal presupposto che il contribuente medio probabilmente bara'; 'L'istruzione di massa in Italia è arrivata soltanto dopo l'unità a fine 800 con tassi di analfabetismo altissimi fino ai primi del 900 mentre la Svezia come detto era scolarizzata da ben due secoli'; Edward Banfield conia 'familismo amorale' per descrivere la moralità ristretta alla cerchia familiare; 'in paesi con bassa fiducia come l'Italia vige il circolo vizioso: ci sono più controlli punitivi, c'è una burocrazia più soffocante perché lo Stato non si fida'.",
+        "contesto": "Il video è interamente costruito sulla diagnosi delle vulnerabilità strutturali italiane: evasione fiscale sistemica, burocrazia soffocante come risposta alla sfiducia, ritardo storico nell'istruzione di massa di almeno due secoli rispetto alla Svezia, clientelismo, percezione dello Stato come entità ostile eredità di secoli di dominazioni. Nessuna delle manifestazioni ufficiali del driver (stretti, porti, strategia marittima) è presente: il video copre la dimensione istituzionale e civica del potenziale inespresso italiano.",
+        "note": "Manifestazioni non in lista rilevate nel transcript: alta evasione fiscale (11-12% PIL vs 3-8% nordico), burocrazia difensiva strutturale, 'familismo amorale' come codice etico a doppio regime, ritardo storico nell'alfabetizzazione di massa, circolo vizioso di sfiducia reciproca tra cittadino e Stato. Il trend è valutato -1 (deriva lenta) perché il video offre analisi senza segnalare inversioni di tendenza recenti."
+      },
+      {
+        "driver_id": "D05",
+        "rilevanza": 1,
+        "valutazione_trend": 0,
+        "manifestazioni_rilevate": [],
+        "evidenza": "'Recentemente anche questioni di integrazione, come ricorderete da questo mio video sulla Svezia'; 'comunità italiane migrate nel Nord Europa o in Nord America spesso si adattano alle regole locali e nel giro di una o due generazioni diventano in linea generale rispettose delle leggi come gli autoctoni'.",
+        "contesto": "Il tema migratorio è citato marginalmente come limite del modello nordico (integrazione in Svezia) e come prova dell'adattabilità culturale degli emigrati italiani. Non emerge la dimensione geopolitica della pressione migratoria.",
+        "note": "Nessuna delle manifestazioni ufficiali del driver (crisi reclutamento eserciti, migrazione come arma ibrida, invecchiamento demografico) è trattata. Il riferimento è esclusivamente socioculturale e circoscritto a una frase."
+      }
+    ],
+    "entita_chiave": {
+      "persone": [
+        "Max Weber",
+        "Giovanni Calvino",
+        "Martin Lutero",
+        "Benjamin Franklin",
+        "Philip Gorski",
+        "Kurt Samuelson",
+        "Edward Banfield",
+        "Charles Taylor",
+        "Becker e Vossman (studio 2009)",
+        "Fernand Braudel"
+      ],
+      "luoghi": [
+        "Norvegia",
+        "Danimarca",
+        "Svezia",
+        "Finlandia",
+        "Islanda",
+        "Paesi Bassi",
+        "Inghilterra",
+        "Italia",
+        "Francia",
+        "Scozia",
+        "Svizzera",
+        "Prussia",
+        "Giappone",
+        "Corea del Sud",
+        "Bergen",
+        "Amsterdam",
+        "Trondheim",
+        "Reykjavik",
+        "Milano",
+        "Torino",
+        "Genova",
+        "New England",
+        "Ginevra"
+      ],
+      "organizzazioni": [
+        "Chiesa Cattolica",
+        "Chiesa Luterana",
+        "Istat",
+        "Financial Times",
+        "Agenzia delle Entrate svedese"
+      ]
+    },
+    "citazioni_notevoli": [
+      "Remember that time is money (Franklin) — inteso non in senso gretto ma come imperativo morale a non sprecare il tempo, dono di Dio.",
+      "Why do the Nordic people want to pay high taxes? They trust their government will use them effectively, efficiently and well. And they know: you get what you pay for.",
+      "In Danimarca si dice spesso che il welfare è come un'assicurazione collettiva, funziona perché tu ti fidi che gli altri lavoreranno e pagheranno le tasse e loro si fidano di te.",
+      "In Italia molte persone evadono perché tanto lo fanno tutti e perché tanto lo Stato spreca, ma se messi in un sistema equo e ben funzionante sarebbero probabilmente leggi.",
+      "Nel 2022 l'84% dei cittadini svedesi dichiarava di avere alta fiducia nelle tasse.",
+      "La vera domanda è: siamo davvero pronti a costruire fiducia collettiva oppure continueremo a preferire la furbizia individuale?"
+    ],
+    "temi_emergenti": [
+      "Etica protestante e capitalismo (Weber): tesi sull'etica del lavoro come vocazione divina e predestinazione calvinista come origine psicologica della disciplina economica nordica, con esame critico delle eccezioni (Francia cattolica, Giappone, Corea del Sud) e della causalità inversa.",
+      "Alfabetizzazione di massa come vero motore dello sviluppo: lo studio Becker-Vossman (2009) mostra che la differenza protestanti/cattolici è spiegata quasi interamente dall'istruzione (legge chiesa svedese 1686 vs analfabetismo italiano fino al '900), non dalla teologia.",
+      "Fiducia istituzionale (social trust) come infrastruttura invisibile: circolo virtuoso nordico (fiducia → compliance → istituzioni credibili → più fiducia) contro circolo vizioso mediterraneo (sfiducia → burocrazia difensiva → percezione di ostilità → più sfiducia).",
+      "Janteloven (Legge di Yante): norma culturale nordica non scritta che scoraggia l'arroganza individuale e rafforza l'egualitarismo collettivo come anticorpo contro l'eccezione individualista.",
+      "Trasparenza fiscale radicale: redditi pubblicamente accessibili per legge in Svezia, Finlandia, Norvegia e Islanda come meccanismo strutturale anti-furbizia e rafforzamento della percezione di equità.",
+      "Familismo amorale (Banfield): moralità a doppio regime — una per la famiglia/cerchia ristretta, una per lo Stato percepito come entità ostile — come eredità storica di secoli di dominazioni esterne.",
+      "Secolarizzazione e persistenza dei valori: nei paesi nordici la religione è quasi scomparsa (3-7% praticanti) ma i valori protestanti persistono come 'fantasma culturale' nelle istituzioni e nella mentalità collettiva (Taylor: età secolare).",
+      "Universalismo morale vs particolarismo: lo spazio pubblico come bene comune (nord) vs terra di nessuno (mediterraneo) con conseguenze quotidiane concrete (strisce pedonali, parcheggi in doppia fila, rifiuti al confine).",
+      "Rivoluzione disciplinare calvinista (Gorski): la Chiesa riformata olandese come prototipo di infrastruttura di governo religioso e controllo sociale che anticipò lo Stato burocratico moderno.",
+      "Limiti del modello nordico e non esportabilità: contraddizioni interne (alti consumi di antidepressivi, stress sociale, problemi di integrazione in Svezia); Charles Bonen sulla non trasferibilità dell'alta fiducia svedese ad altri contesti."
+    ],
+    "note": "Il video è divulgazione storico-sociologica, non analisi geopolitica diretta. L'aderenza ai 12 driver è molto limitata: quasi nessun driver geopolitico strutturale (declino USA, stretti, Cina, Turchia, conflitti armati) è trattato. Il driver D12 è tecnicamente il più pertinente ma nei suoi aspetti istituzionali e civici, non in quelli maritimo-geografici elencati nelle manifestazioni ufficiali. Il video offre una chiave interpretativa del deficit strutturale italiano utile come sfondo per altri driver ma non li attiva direttamente."
+  },
+  {
+    "video_id": "ectT5opfu2U",
+    "title": "Il mondo secondo Donald Trump",
+    "url": "https://www.youtube.com/watch?v=ectT5opfu2U",
+    "published": "2026-01-22",
+    "channel": "Nova Lectio",
+    "analysis_confidence": "high",
+    "sintesi": "Il video ricostruisce sistematicamente la visione geopolitica di Trump come rottura consapevole con l'ordine internazionale liberale del dopoguerra: gli USA abbandonano il multilateralismo e si riposizionano come potenza transazionale ed egemonica nel proprio emisfero, retrocedendo l'Europa a cliente/zavorra e identificando la Cina come unico vero rivale strategico. La domanda finale sposta la questione da Trump-persona a declino strutturale della superpotenza americana, incapace di mantenere l'ordine che ha costruito.",
+    "matched_drivers": [
+      {
+        "driver_id": "D01",
+        "rilevanza": 3,
+        "valutazione_trend": -2,
+        "manifestazioni_rilevate": [
+          "Incapacità di chiudere le guerre che apre",
+          "Perdita di credibilità come protettore europeo"
+        ],
+        "evidenza": "Il video cita esplicitamente la National Security Strategy 2025: 'Gli USA non vogliono più sostenere a caro prezzo un ordine basato sulle regole e sui valori universali.' Il narratore conclude: 'Il problema è davvero un presidente o piuttosto una superpotenza che non crede più al vecchio ordine globale, che non riesce più a mantenerlo.' Aggiunge anche il ritiro da 66 organizzazioni internazionali e il cambio di nome da Dipartimento della Difesa a Dipartimento della Guerra.",
+        "contesto": "Il tema è il filo conduttore dell'intero video: il declino non come fenomeno contingente ma come scelta strategica esplicita di ridefinire il ruolo globale degli USA."
+      },
+      {
+        "driver_id": "D02",
+        "rilevanza": 3,
+        "valutazione_trend": -2,
+        "manifestazioni_rilevate": [
+          "Minaccia USA di uscire dalla NATO",
+          "Riarmo europeo in ordine sparso",
+          "Strategie militari nazionali che ignorano i partner europei"
+        ],
+        "evidenza": "Trump definisce l'Europa 'un nemico al pari di Cina e Russia' sul piano commerciale e 'una zavorra, un insieme di piccoli paesi vassalli'. La NATO è descritta tramite la metafora assicurativa: se gli alleati non pagano il premio, la copertura decade. Il congelamento degli aiuti militari a Kiev nel 2025 è esplicitamente letto come 'messaggio implicito all'Europa: la difesa dell'Ucraina e quindi della stessa Europa orientale non è un assegno in bianco americano'.",
+        "contesto": "Il video presenta questa frattura come strutturale e non tattica: Trump non vede alleati ma clienti, e l'Europa è sia rivale commerciale sia dipendente dalla protezione americana."
+      },
+      {
+        "driver_id": "D06",
+        "rilevanza": 2,
+        "valutazione_trend": -2,
+        "manifestazioni_rilevate": [
+          "Conflitti che persistono senza obiettivi chiari",
+          "Uso della guerra per sospendere processi o crisi interne"
+        ],
+        "evidenza": "'Trump non crede nei grandi piani idealistici di nation building o nei classici processi di pace [...] Meglio un Medio Oriente turbolento ma controllabile che uno pacificato ma sfavorevole agli interessi americani.' Il conflitto viene strumentalizzato per creare dipendenza dalla protezione americana: 'un Medio Oriente instabile può essere molto conveniente se questo tiene occupati attori come l'Iran o crea dipendenza degli attori regionali dalla protezione americana'. Simbolico anche il cambio Dipartimento Difesa → Dipartimento della Guerra.",
+        "contesto": "La guerra non è strumento per risolvere ma per gestire vantaggiosamente il caos; applicato sia al Medio Oriente sia alla postura verso la Russia come 'diversivo' rispetto alla sfida cinese."
+      },
+      {
+        "driver_id": "D07",
+        "rilevanza": 3,
+        "valutazione_trend": -2,
+        "manifestazioni_rilevate": [
+          "Trump: commistione tra potere pubblico e impero privato"
+        ],
+        "evidenza": "L'intero video è costruito sulla tesi che Trump applica 'una mentalità da imprenditore immobiliare [...] alla geopolitica'. Esempi concreti: Taiwan trattata come asset commerciale ('se conviene si difende, se diventa troppo costoso forse no'), Groenlandia come 'immobile da acquisire', Venezuela come cortile da gestire. 'Trump ragiona da uomo di affari in fin dei conti. Se un territorio serve, va acquisito come fosse un immobile, un terreno edificabile.'",
+        "contesto": "Il narratore problematizza esplicitamente se il fenomeno sia riducibile al singolo leader o se rappresenti una trasformazione strutturale della superpotenza."
+      },
+      {
+        "driver_id": "D09",
+        "rilevanza": 2,
+        "valutazione_trend": -2,
+        "manifestazioni_rilevate": [
+          "Dibattiti su esercito europeo"
+        ],
+        "evidenza": "Il congelamento degli aiuti a Kiev viene interpretato come segnale esplicito: 'la difesa dell'Ucraina e quindi della stessa Europa orientale non è un assegno in bianco americano'. La Russia destabilizza l'Ucraina e 'a pagare impegno diretto tra rifugiati, crisi energetica e tensioni varie ai confini, non saremo noi americani, ma saranno gli europei.' Trump accetta implicitamente la logica del concerto di potenze: 'gli Stati Uniti si prendono il proprio quartiere e lasciano che altrove prevalgano gli altri'.",
+        "contesto": "Il video non analizza la risposta europea a questa situazione, ma descrive la rimozione del vincolo esterno americano come fatto compiuto e conseguenza diretta della dottrina Trump."
+      }
+    ],
+    "entita_chiave": {
+      "persone": [
+        "Donald Trump",
+        "Vladimir Putin",
+        "Volodymyr Zelenski",
+        "Xi Jinping",
+        "Kim Jong-un",
+        "Nayib Bukele",
+        "Javier Milei",
+        "Gustavo Petro",
+        "Marco Rubio"
+      ],
+      "luoghi": [
+        "Ucraina",
+        "Cina",
+        "Russia",
+        "Groenlandia",
+        "Venezuela",
+        "Iran",
+        "Taiwan",
+        "Cuba",
+        "Colombia",
+        "Honduras",
+        "Nicaragua",
+        "Artico",
+        "Medio Oriente",
+        "Gaza",
+        "Arabia Saudita",
+        "Alaska",
+        "Canada",
+        "Danimarca"
+      ],
+      "organizzazioni": [
+        "NATO",
+        "Dipartimento della Guerra (ex Difesa)",
+        "Dipartimento di Stato",
+        "Accordi di Abramo",
+        "ONU e organismi multilaterali (66 organizzazioni)"
+      ]
+    },
+    "citazioni_notevoli": [
+      "Gli USA non vogliono più sostenere a caro prezzo un ordine basato sulle regole e sui valori universali.",
+      "Il problema è davvero un presidente o piuttosto una superpotenza che non crede più al vecchio ordine globale, che non riesce più a mantenerlo.",
+      "Questo è il nostro emisfero e il presidente Trump non permetterà che la nostra sicurezza sia minacciata.",
+      "Meglio un Medio Oriente turbolento ma controllabile che uno pacificato ma sfavorevole agli interessi americani.",
+      "Trump ragiona da uomo di affari in fin dei conti. Se un territorio serve, va acquisito come fosse un immobile, un terreno edificabile.",
+      "Cade il velo di Maya. Il petrolio in Venezuela."
+    ],
+    "temi_emergenti": [
+      "Revival della Dottrina Monroe come egemonismo emisferico esplicito (operazione Absolute Resolve in Venezuela)",
+      "Taiwan come variabile commerciale e non più come impegno ideologico bipartisan — rottura della 'strategic ambiguity'",
+      "Russia come problema secondario e diversivo rispetto alla sfida cinese: gestita come disturbatore utile dell'Europa",
+      "Accordi di Abramo come architettura di sicurezza selettiva anti-Iran, non come processo di pace israelo-palestinese",
+      "Groenlandia e Artico come nuova frontiera geopolitica per contenere l'espansione russo-cinese",
+      "Ritiro da 66 organizzazioni internazionali come smantellamento deliberato del multilateralismo",
+      "Fine della retorica democratica come giustificazione degli interventi militari: cinismo degli interessi nazionali dichiarato apertamente",
+      "Divisione del mondo in tre macrosfere di influenza (USA-Russia-Cina) come possibile assetto emergente"
+    ],
+    "note": "Il video è una sintesi divulgativa di alta qualità ma non introduce fonti primarie originali oltre alla NSS 2025 e all'ordine esecutivo sulle 66 organizzazioni. L'analisi sul Venezuela (operazione Absolute Resolve) e su Taiwan è presentata come aggiornamento a inizio 2026. D03, D05, D08, D10, D11, D12 sono assenti: nessun riferimento agli stretti, demografia, religione come legittimazione territoriale, Turchia, percezione europea della Cina come opportunità, o Italia. D04 (armi autonome/IA) è escluso: la competizione tecnologica con la Cina (chip, Huawei) è citata come parte della strategia di contenimento ma non nel contesto specifico di armamenti autonomi o IA militare."
+  },
+  {
+    "video_id": "sQ-wvaLRABQ",
+    "title": "Voli estivi a rischio per crisi carburante, cosa sta succedendo e perché: facciamo chiarezza",
+    "url": "https://www.youtube.com/watch?v=sQ-wvaLRABQ",
+    "published": "2026-04-13",
+    "channel": "Geopop",
+    "analysis_confidence": "high",
+    "sintesi": "Il video analizza l'impatto della chiusura dello Stretto di Hormuz — innescata dal conflitto USA-Iran seguito all'attacco USA-Israele del 28 febbraio 2026 — sulla disponibilità di cherosene aeronautico in Europa per l'estate 2026. Il 10% del consumo europeo di jet fuel transita per Hormuz, e la crisi ha già prodotto restrizioni operative in sette aeroporti italiani e una lettera d'allarme formale di ACI Europe alla Commissione Europea. Il Sud Europa, e l'Italia in particolare, risulta strutturalmente più esposto per la dipendenza dalle rotte marittime del Golfo Persico e del Canale di Suez, con margini di manovra inferiori rispetto al Nord Europa.",
+    "matched_drivers": [
+      {
+        "driver_id": "D01",
+        "rilevanza": 1,
+        "valutazione_trend": -1,
+        "manifestazioni_rilevate": [
+          "Contestazione degli stretti (choke points)"
+        ],
+        "evidenza": "Il video ricostruisce la sequenza: USA e Israele attaccano l'Iran il 28 febbraio, gli USA rafforzano la presenza militare in regione a inizio marzo, valutano l'intervento diretto a fine marzo. Trump il 12 aprile minaccia il blocco totale di Hormuz: 'noi blocchiamo lo stretto, blocchiamo tutto, fermiamo tutte le navi, anche quelle che fate passare voi per i vostri interessi'.",
+        "contesto": "Il driver emerge come sfondo della crisi energetica, non come tema esplicito. Il video è focalizzato sulle conseguenze logistiche, non sull'analisi dell'egemonia americana."
+      },
+      {
+        "driver_id": "D03",
+        "rilevanza": 3,
+        "valutazione_trend": -2,
+        "manifestazioni_rilevate": [
+          "Tensione sullo Stretto di Hormuz",
+          "Dichiarazioni di chiusura o interdizione"
+        ],
+        "evidenza": "Il transcript documenta in dettaglio: blocco di Hormuz dal 28 febbraio, riapertura per 'un paio d'ore' il 7-8 aprile seguita da immediata richiusura dopo il bombardamento israeliano del Libano ('l'Iran considerava il Libano incluso nella tregua, Israele no'), fallimento dei negoziati di Islamabad del 10 aprile. Dato strutturale centrale: il 10% del consumo europeo di jet fuel transita per Hormuz (40-43% del 25% importato). ACI Europe scrive: 'Se il transito attraverso lo stretto di Ormuzzo non riprenderà in modo significativo e stabile entro le prossime tre settimane, la carenza sistemica di carburante per aerei è destinata a diventare una realtà per l'Unione Europea.'",
+        "contesto": "Il Canale di Suez e il Mediterraneo orientale sono citati come rotte alimentate dal Golfo Persico, rendendo il sistema degli stretti una vulnerabilità a catena per il Sud Europa. Anche se Hormuz riaprisse domani, servirebbero 3-4 settimane di navigazione e mesi per ripristinare i volumi pre-crisi."
+      },
+      {
+        "driver_id": "D06",
+        "rilevanza": 1,
+        "valutazione_trend": -1,
+        "manifestazioni_rilevate": [
+          "Conflitti che persistono senza obiettivi chiari"
+        ],
+        "evidenza": "La cronologia mostra un conflitto che non si chiude: tregua di due settimane raggiunta il 7-8 aprile, stretto riaperto e richiuso in poche ore perché Israele bombarda il Libano. I negoziati di Islamabad del 10 aprile falliscono senza accordo. La ciclicità escalation-tregua-escalation è implicita nella sequenza degli eventi riportati.",
+        "contesto": "L'analisi non è esplicitamente filosofico-politica; il driver emerge dalla sequenza degli eventi narrati, non da una tesi esplicita del video."
+      },
+      {
+        "driver_id": "D07",
+        "rilevanza": 1,
+        "valutazione_trend": -1,
+        "manifestazioni_rilevate": [],
+        "evidenza": "Trump è citato come attore che il 12 aprile lancia una contro-minaccia di blocco totale di Hormuz: 'non puoi usare Ormuz come leva politica selettiva perché noi abbiamo la capacità di renderlo inutile anche per te.' Il video la legge come deterrenza, ma la mossa amplia il rischio di escalation e blocca ogni prospettiva diplomatica a breve.",
+        "contesto": "Nessuna delle manifestazioni standard del driver (commistione pubblico-privato, paura visibile di Putin, Netanyahu-scudo giudiziario, Papa Prevost) corrisponde al contenuto del video. La rilevanza è minima; la manifestazione rilevata — deterrenza aggressiva come potenziale acceleratore di crisi — è nuova."
+      },
+      {
+        "driver_id": "D09",
+        "rilevanza": 2,
+        "valutazione_trend": -1,
+        "manifestazioni_rilevate": [],
+        "evidenza": "Il direttore generale di ACI Europe scrive alla Commissione UE che 'al momento non esiste alcuna mappatura, valutazione o monitoraggio a livello europeo della produzione della disponibilità di carburante per gli aerei'. Bruxelles non conosce le riserve dei 27 stati membri; le sanno solo i singoli governi nazionali. Il video commenta: 'questa situazione di crisi ha reso visibile un buco istituzionale che nessuno aveva mai ritenuto urgente colmare.' L'UE convoca per il 21 aprile una riunione d'emergenza dei ministri dei trasporti.",
+        "contesto": "Le manifestazioni elencate per D09 sono militari/politiche. La manifestazione qui rilevata — gap istituzionale UE nel monitoraggio energetico e reazione emergenziale autonoma degli stati membri — è nuova rispetto alla lista standard ed è annotata in 'note'."
+      },
+      {
+        "driver_id": "D12",
+        "rilevanza": 3,
+        "valutazione_trend": -2,
+        "manifestazioni_rilevate": [
+          "Dipendenza dalla libertà degli stretti",
+          "Mancanza di una strategia marittima nazionale"
+        ],
+        "evidenza": "Il video afferma esplicitamente: 'gli aeroporti del Sud Europa, quindi Italia, Spagna, Grecia, Portogallo, sono strutturalmente più esposti. Il loro carburante arriva principalmente via mare attraverso il canale di Suez e il Mediterraneo orientale.' A Pasqua sette aeroporti italiani (Linate, Bologna, Venezia, Treviso, Brindisi, Reggio Calabria, Pescara) hanno subito restrizioni operative con tetto di 2.000 litri per aeromobile (circa un'ora di volo per un 737). Fiumicino e Malpensa operano normalmente ma 'la rete intorno a loro ha già perso un po' di elasticità'.",
+        "contesto": "Il video non usa esplicitamente il termine 'Medioceania' né discute la strategia marittima italiana, ma descrive nei fatti la vulnerabilità strutturale dell'Italia: posizione geografica, dipendenza da rotte non sostituibili e meno alternative logistiche rispetto al Nord Europa."
+      }
+    ],
+    "entita_chiave": {
+      "persone": [
+        "Trump",
+        "Michael O'Leary (CEO Ryanair)",
+        "Fatih Birol (Direttore AIE)"
+      ],
+      "luoghi": [
+        "Stretto di Hormuz",
+        "Iran",
+        "Israele",
+        "Libano",
+        "Golfo Persico",
+        "Rotterdam",
+        "Islamabad",
+        "Canale di Suez",
+        "Mediterraneo orientale",
+        "Milano Linate",
+        "Bologna",
+        "Venezia",
+        "Treviso",
+        "Brindisi",
+        "Reggio Calabria",
+        "Pescara",
+        "Fiumicino",
+        "Malpensa"
+      ],
+      "organizzazioni": [
+        "ACI Europe",
+        "Commissione Europea",
+        "Unione Europea",
+        "ITA Airways",
+        "Ryanair",
+        "Lufthansa",
+        "Wizz Air",
+        "Norwegian",
+        "Agenzia Internazionale per l'Energia (AIE)",
+        "Codacons",
+        "Unione Nazionale Consumatori"
+      ]
+    },
+    "citazioni_notevoli": [
+      "Se il transito attraverso lo stretto di Ormuzzo non riprenderà in modo significativo e stabile entro le prossime tre settimane, la carenza sistemica di carburante per aerei è destinata a diventare una realtà per l'Unione Europea. (ACI Europe, lettera alla Commissione UE, 9 aprile 2026)",
+      "al momento non esiste alcuna mappatura, valutazione o monitoraggio a livello europeo della produzione della disponibilità di carburante per gli aerei. (Direttore Generale ACI Europe)",
+      "il direttore dell'Agenzia Internazionale per l'energia ha definito questa la crisi energetica più acuta della storia mondiale. (Fatih Birol, AIE)",
+      "Se voi continuate a ricattare tutto con la chiusura dello stretto, facendo passare solo le vostre navi, allora noi blocchiamo lo stretto, blocchiamo tutto, fermiamo tutte le navi, anche quelle che fate passare voi per i vostri interessi. (Trump, 12 aprile 2026)",
+      "i mercati energetici funzionano sul margine: non serve che manchi il 50-60-70% dell'offerta, basta un pezzettino, anche il 10% per far saltare i prezzi."
+    ],
+    "temi_emergenti": [
+      "Fragilità strutturale delle catene di approvvigionamento energetico globali: il blocco del solo 10% dell'offerta di jet fuel basta a far raddoppiare i prezzi (da $830 a oltre $1.600 per tonnellata) per il principio di mercato sul margine",
+      "Distinzione critica tra copertura finanziaria (hedging sul prezzo) e disponibilità fisica del carburante: le compagnie aeree con hedge elevato (ITA Airways 80% per 9 mesi) non hanno garanzie sulla fornitura reale agli aeroporti",
+      "Asimmetria della vulnerabilità energetica intra-europea: Nord Europa (Londra, Parigi, Francoforte, Amsterdam) più protetto da raffinerie atlantiche e reti di oleodotti terrestri vs Sud Europa dipendente dalle rotte del Golfo",
+      "Gap istituzionale UE nel monitoraggio delle riserve energetiche: nessun sistema centralizzato per le riserve di jet fuel nei 27 stati membri; scorte variabili da 8-10 giorni (paesi piccoli) a oltre 90 giorni (due paesi non identificati)",
+      "Latenza del ripristino logistico: anche una riapertura diplomatica immediata di Hormuz non risolverebbe il problema estivo, per i 3-4 settimane di navigazione, i tempi assicurativi e fino a 6 mesi per tornare ai volumi pre-crisi",
+      "Impatto diretto del conflitto geopolitico sui consumatori retail: rialzo inevitabile dei biglietti aerei come trasmissione diretta della crisi militare regionale alla vita quotidiana europea"
+    ],
+    "note": "D07: Trump citato per la mossa di deterrenza aggressiva su Hormuz (12 aprile), non per le manifestazioni standard del driver (commistione pubblico-privato). D09: il 'buco istituzionale' UE nel monitoraggio delle riserve di jet fuel è una nuova manifestazione del driver non prevista nella lista standard (che include solo fenomeni militari/politici); costituisce però un esempio concreto di 'fine del vincolo esterno' nella dimensione energetica — l'Europa si scopre priva di strumenti collettivi proprio quando ne avrebbe bisogno. D12: il video non menziona esplicitamente una strategia marittima nazionale italiana mancante, ma la descrive nei fatti attraverso la maggiore esposizione strutturale degli aeroporti italiani rispetto al Nord Europa e la mancanza di alternative logistiche."
+  },
+  {
+    "video_id": "8CUHFcNyEpo",
+    "title": "Perché le Big Tech investono miliardi nell'intelligenza artificiale",
+    "url": "https://www.youtube.com/watch?v=8CUHFcNyEpo",
+    "published": "2026-01-07",
+    "channel": "Nova Lectio",
+    "analysis_confidence": "high",
+    "sintesi": "Il video analizza le ragioni economiche, geopolitiche e tecnologiche degli investimenti miliardari delle Big Tech nell'AI, tracciando il sistema di accordi circolari attorno a Nvidia e l'impatto energetico dei data center sui cittadini. Emerge la dimensione militare della competizione USA-Cina e il crescente intreccio tra oligarchia tech e potere politico, inquadrato sotto il concetto di 'tecnofeudalesimo'.",
+    "matched_drivers": [
+      {
+        "driver_id": "D04",
+        "rilevanza": 2,
+        "valutazione_trend": -2,
+        "manifestazioni_rilevate": [],
+        "evidenza": "\"L'esercito popolare di liberazione cinese si sta già addestrando per questo tipo di guerra [...] Disturbo EMP e attacchi mirati per sabotare i sistemi nemici che veicolano le informazioni da e verso i server\" e \"i paesi più all'avanguardia saranno costretti a fare affidamento sull'AI anche nella difesa\"",
+        "contesto": "Il video dedica un'intera sezione alle tattiche asimmetriche cinesi per neutralizzare l'AI americana su tre fronti (dati, algoritmi, potenza di calcolo), citando un'analisi di Defense One su scenari bellici. L'AI militare è tema secondario ma esplicito, subordinato all'analisi economica.",
+        "note": "Nessuna delle manifestazioni canoniche è direttamente attestata nel transcript (assenti: incontri riservati USA-Cina su armi autonome, primo impiego documentato di arma autonoma, dibattito su robot soldati). Nuove manifestazioni rilevate: data poisoning come tattica militare, attacchi EMP contro infrastrutture AI nemiche, addestramento PLA per guerra cognitiva/informatica basata su AI, uso di carri armati gonfiabili per ingannare satelliti AI (aggiornamento dell'Operazione Quicksilver 1944)."
+      },
+      {
+        "driver_id": "D07",
+        "rilevanza": 3,
+        "valutazione_trend": -2,
+        "manifestazioni_rilevate": [
+          "Trump: commistione tra potere pubblico e impero privato"
+        ],
+        "evidenza": "\"Nelle foto dell'insediamento per il secondo mandato dell'attuale presidente statunitense, i vari CEO delle aziende di cui parliamo da tutto il video, facevano bella mostra di sé in prima fila [...] figure molto vicine a lui sono finite a ricoprire ruoli chiavi per definire le strategie nazionali in materia di intelligenza artificiale e alla NASA che, guarda un po' è una delle principali clienti di SpaceX\" e \"Pensate al coinvolgimento di Elon Musk a livello amministrativo nel governo americano [...] nel DOGE, il Department of Government Efficiency\"",
+        "contesto": "Il video costruisce sistematicamente la tesi del tecnofeudalesimo: i CEO delle Big Tech erano fisicamente in prima fila all'insediamento di Trump, Musk siede nel DOGE mentre SpaceX è fornitore privilegiato della NASA, e figure vicine a Musk definiscono le strategie nazionali sull'AI. Il fenomeno è presentato come qualitativo e strutturale, non episodico."
+      }
+    ],
+    "entita_chiave": {
+      "persone": [
+        "Elon Musk",
+        "Bernie Sanders",
+        "Sam Altman",
+        "Donald Trump",
+        "Mark Zuckerberg"
+      ],
+      "luoghi": [
+        "Stati Uniti",
+        "Cina",
+        "Europa",
+        "Italia",
+        "Louisiana nord-orientale",
+        "Plano (Texas)",
+        "New Jersey",
+        "Pennsylvania (Scranton)",
+        "Virginia",
+        "India",
+        "Shanghai",
+        "Mar Giallo",
+        "Scozia"
+      ],
+      "organizzazioni": [
+        "Amazon / AWS",
+        "Google / Alphabet",
+        "Meta",
+        "Microsoft",
+        "Nvidia",
+        "OpenAI",
+        "Anthropic",
+        "CoreWeave",
+        "Intel",
+        "AMD",
+        "Qualcomm",
+        "Samsung",
+        "Huawei",
+        "Alibaba",
+        "Cambricon",
+        "SpaceX",
+        "NASA",
+        "DOGE",
+        "Esercito Popolare di Liberazione (PLA)",
+        "Constellation Energy",
+        "Palantir",
+        "Defense One",
+        "PJM Grid"
+      ]
+    },
+    "citazioni_notevoli": [
+      "\"The people who are pushing this transformative revolution are the richest people in the world. They are not staying up nights worrying about working people.\" (Bernie Sanders)",
+      "\"Le stime più citate ipotizzano che il consumo energetico dei data center possa triplicare entro la fine del 2026, un consumo pari a quello dell'intera Germania\"",
+      "\"Si parla ad oggi di qualcosa come 800 miliardi di dollari investiti in questo campo solamente negli ultimi 5 anni\"",
+      "\"Una multa da 111 milioni di dollari inflitta ad Amazon viene recuperata dall'azienda in un paio d'ore di fatturato\"",
+      "\"I legami sono talmente intrecciati che se anche salta una sola tessera tutta la torre rischia di crollare\" (CEO di Alphabet)"
+    ],
+    "temi_emergenti": [
+      "Tecnofeudalesimo: fusione tra oligarchia tech e potere politico come nuovo paradigma di governance",
+      "Crisi energetica strutturale indotta dai data center AI con ricadute dirette sulle bollette dei consumatori (conguaglio energetico alle comunità locali USA)",
+      "Rinascita del nucleare civile (SMR e riattivazione di reattori dismessi) guidata dalle esigenze AI, non da politica energetica pubblica",
+      "Sistema di accordi circolari nell'ecosistema Big Tech: Nvidia-CoreWeave-OpenAI-Microsoft e Google/Amazon-Anthropic come economia autoreferenziale",
+      "Monopolio Nvidia sui chip AI come vulnerabilità sistemica dell'intero comparto e centro gravitazionale dell'ecosistema",
+      "Bolla speculativa AI: capitali che circolano prevalentemente tra le stesse aziende gonfiando valutazioni e PIL americano",
+      "Dati degli utenti come materia prima geopolitica e risorsa strategica per Stati e aziende (Palantir citato come caso emblematico)",
+      "Inefficacia degli strumenti antitrust di fronte alla scala del potere multinazionale tech",
+      "Competizione USA-India come risposta geopolitica alla crescita tecnologica cinese",
+      "Impatto occupazionale dell'AI: tensione irrisolta tra automazione liberatoria e precarizzazione del lavoro"
+    ],
+    "note": "Il video è principalmente un'analisi economico-politica dell'ecosistema AI e non un video geopolitico in senso stretto. I driver D01-D03, D05-D06, D08-D12 sono assenti o sotto soglia: D01 è escluso perché il video mostra gli USA in posizione assertiva, non declinante; D11 è escluso perché la Cina è trattata come avversario tecnologico (DeepSeek come alternativa disruptiva a Nvidia), non come opportunità. D07 è il driver centrale; D04 è secondario ma esplicito. Il concetto di 'tecnofeudalesimo' è il contributo analitico più originale del video e non è pienamente mappabile in nessuno dei 12 driver esistenti."
+  },
+  {
+    "video_id": "O1bWQ3T9fgo",
+    "title": "Gen. Capitini: perché l'Iran mette in crisi USA e Israele",
+    "url": "https://www.youtube.com/watch?v=O1bWQ3T9fgo",
+    "published": "2026-03-26",
+    "channel": "ISPI - La geopolitica spiegata in modo chiaro",
+    "analysis_confidence": "high",
+    "sintesi": "Il Generale Capitini analizza il conflitto USA-Israele-Iran a circa un mese dall'inizio delle operazioni, mostrando come l'Iran abbia scelto un campo di battaglia asimmetrico — la resistenza identitaria e il controllo dello Stretto di Hormuz — per sfruttare le divisioni interne alla coalizione avversaria e mettere in discussione la credibilità americana come potenza protettrice. La mancanza di obiettivi strategici chiari da parte di Washington, unita all'ambiguità nucleare israeliana, apre scenari di proliferazione regionale e di ulteriore erosione della coesione del blocco occidentale.",
+    "matched_drivers": [
+      {
+        "driver_id": "D01",
+        "rilevanza": 3,
+        "valutazione_trend": -2,
+        "manifestazioni_rilevate": [
+          "Incapacità di chiudere le guerre che apre",
+          "Perdita di credibilità come protettore europeo"
+        ],
+        "evidenza": "«Se tu sei il capo di un'alleanza militare tutto in maiuscola e non riesci a dimostrare di avere il dominio della forza e anche della forza economica, i tuoi sottoposti, i tuoi alleati cominciano a farsi il dubbio se tu sei proprio quello che sarà in grado eventualmente di proteggere»; richiamati Afghanistan, Vietnam e Iraq come guerre dove gli USA hanno distrutto senza raggiungere alcun obiettivo strategico.",
+        "contesto": "I Curdi, alla quarta promessa tradita, hanno rifiutato di fare ancora da fanteria americana. Gli Stati del Golfo sono stati trasformati in bersagli dalla presenza USA senza essere difesi, inducendo dubbi sulla solidità del protettore."
+      },
+      {
+        "driver_id": "D02",
+        "rilevanza": 2,
+        "valutazione_trend": -2,
+        "manifestazioni_rilevate": [
+          "Strategie militari nazionali che ignorano i partner europei"
+        ],
+        "evidenza": "«Puntualmente escono indiscrezioni di stampa dove si dice che paesi persino europei si starebbero accordando con l'Iran per garantire i propri traffici»; «anche la Polonia ci sta pensando, anche la Germania ci sta pensando [all'arma nucleare]. Perché se il mio grande alleato non è detto che mi protegga, allora devo pensare io di mettermi fuori dalla competizione convenzionale».",
+        "contesto": "La strategia iraniana su Hormuz viene descritta come capace di incunearsi tra alleati USA, inclusa l'Europa, indebolendo la coesione del blocco occidentale e spingendo alcuni paesi europei a ragionamenti strategici autonomi."
+      },
+      {
+        "driver_id": "D03",
+        "rilevanza": 3,
+        "valutazione_trend": -2,
+        "manifestazioni_rilevate": [
+          "Tensione sullo Stretto di Hormuz",
+          "Dichiarazioni di chiusura o interdizione"
+        ],
+        "evidenza": "«Il perno di tutto questo è il possesso dello Stretto di Ormuz che permette all'Iran di modulare il coinvolgimento mondiale in questa crisi. Basta solo che stringono un pochino la vite o lo allentano... Ormuzz non è bloccato, è bloccato per chi sta attaccando l'Iran»; India, Russia e Cina continuano a transitare anche sotto scorta.",
+        "contesto": "Capitini definisce Hormuz come la principale leva strategica iraniana per dividere la coalizione avversaria, coinvolgere o distaccare potenze terze e proiettare la crisi a livello geoeconomico globale."
+      },
+      {
+        "driver_id": "D06",
+        "rilevanza": 3,
+        "valutazione_trend": -1,
+        "manifestazioni_rilevate": [
+          "Conflitti che persistono senza obiettivi chiari",
+          "Leader che dichiarano vittorie impossibili"
+        ],
+        "evidenza": "«Pete Hegseth ha detto che è quasi infantile, stupido e sciocco dettare obiettivi chiaramente misurabili, è più pragmatico rimodulare gli obiettivi a seconda di come vanno le cose»; «Il cambio di regime è un mezzo, non è un fine — qual è il per?»; «La domanda che tutti ci poniamo è: ma l'obiettivo degli Stati Uniti quale sarebbe? Non si capisce».",
+        "contesto": "Il Generale traccia un parallelo strutturale con Vietnam, Afghanistan e Iraq: la superiorità distruttiva americana non si traduce in vittoria quando manca un fine politico definito. Trump ha dichiarato un obiettivo (cambio di regime) che è un mezzo, non un fine, condannando ogni risultato parziale a sembrare un fallimento."
+      },
+      {
+        "driver_id": "D07",
+        "rilevanza": 1,
+        "valutazione_trend": -1,
+        "manifestazioni_rilevate": [],
+        "evidenza": "«Trump ha fatto questo errore: ha alzato troppo l'asticella da subito dicendo che l'obiettivo era il cambio di regime»; Israele persegue «l'obiettivo politico strategico di ridurlo alle tribù», obiettivo descritto come forse troppo ambizioso; Hegseth associa la guerra alla pura distruzione senza visione strategica.",
+        "contesto": "Le scelte di Trump, Netanyahu e Hegseth sono discusse come errori che accelerano la crisi, ma le manifestazioni specifiche elencate per il driver (guerra-scudo-giudiziario, commistione pubblico-privato, Papa NATO) non compaiono nel transcript."
+      },
+      {
+        "driver_id": "D09",
+        "rilevanza": 1,
+        "valutazione_trend": -1,
+        "manifestazioni_rilevate": [
+          "Germania che produce strategia nazionale senza alleati"
+        ],
+        "evidenza": "«Anche la Polonia ci sta pensando, anche la Germania ci sta pensando [all'arma nucleare]. Perché se il mio grande alleato non è detto che mi protegga, allora devo pensare io di mettermi fuori dalla competizione convenzionale attraverso il possesso dell'arma totale».",
+        "contesto": "Il ragionamento europeo sulla deterrenza nucleare autonoma emerge come conseguenza della crisi di credibilità americana, non come tema centrale del video; è un'osservazione marginale del Generale."
+      },
+      {
+        "driver_id": "D11",
+        "rilevanza": 1,
+        "valutazione_trend": 1,
+        "manifestazioni_rilevate": [],
+        "evidenza": "«Cina... stanno dietro le quinte, battono le mani»; «Ormuzz non è bloccato per la Cina»; gli USA vorrebbero «togliere la possibilità alla Cina di commerciare con l'Iran», obiettivo descritto come fallito.",
+        "contesto": "La Cina appare come beneficiaria indiretta e silenziosa della crisi USA-Iran, non come soggetto di un cambiamento di percezione attivo da parte europea. Le manifestazioni elencate per il driver (investimenti europei, visite di alto livello) non sono presenti."
+      }
+    ],
+    "entita_chiave": {
+      "persone": [
+        "Paolo Capitini",
+        "Francesco Petronella",
+        "Donald Trump",
+        "Benjamin Netanyahu",
+        "Pete Hegseth",
+        "Ali Khamenei",
+        "Carl von Clausewitz",
+        "Napoleone Bonaparte",
+        "Colin Powell"
+      ],
+      "luoghi": [
+        "Iran",
+        "Israele",
+        "Stretto di Hormuz",
+        "Golfo Persico",
+        "Afghanistan",
+        "Vietnam",
+        "Iraq",
+        "Ucraina",
+        "Arabia Saudita",
+        "Pakistan",
+        "Corea del Nord",
+        "Polonia",
+        "Germania",
+        "India",
+        "Russia",
+        "Cina"
+      ],
+      "organizzazioni": [
+        "ISPI",
+        "Pentagono (Dipartimento della Guerra)",
+        "Nazioni Unite",
+        "Mossad",
+        "Agenzia internazionale per l'energia atomica",
+        "NATO"
+      ]
+    },
+    "citazioni_notevoli": [
+      "«Voi avete gli orologi, noi abbiamo il tempo» — attribuita ai Talebani, citata come emblema della resistenza identitaria contrapposta alla superiorità tecnologica.",
+      "«Il cambio di regime è un mezzo, non è un fine. Io cambio il regime per — ecco, alla voce per. Qual è il per?»",
+      "«Pete Hegseth ha detto che è quasi infantile, stupido e sciocco dettare obiettivi chiaramente misurabili e dichiarare faremo questo, faremo quest'altro».",
+      "«Israele possiede un'arma atomica, ma non possiede la diplomazia atomica».",
+      "«Se avevano la bomba atomica, la possibilità di essere attaccati crolla verticalmente. La Corea del Nord nessuno si azzarda a pensarla».",
+      "«Loro associano la guerra alla distruzione, quindi più distruggo più vinco. E questo non è così da tante guerre a questa parte»."
+    ],
+    "temi_emergenti": [
+      "Fallimento della strategia di decapitazione della leadership nemica: l'eliminazione di Khamenei nelle prime ore non ha prodotto effetti sistemici perché la struttura di governance iraniana non è verticistica né terroristica.",
+      "Uso della diplomazia come strumento tattico di guerra: le trattative pre-28 febbraio descritte come funzionali a radunare i negoziatori per colpirli, con conseguente crollo permanente della credibilità negoziale americana (i Curdi ne sono l'esempio più esplicito).",
+      "Proliferazione nucleare a cascata: se l'Iran sopravvive dotarsi dell'arma nucleare diventa priorità assoluta; Arabia Saudita già in accordo con il Pakistan; Polonia e Germania in fase di riflessione autonoma.",
+      "Resistenza identitaria come strategia militare superiore alla superiorità distruttiva: la coscienza di un popolo radicato nel proprio territorio da secoli (Iran/Persia, Talebani) rende inutile la distruzione materiale se non si colpisce l'identità collettiva.",
+      "Ambiguità nucleare israeliana come fattore destabilizzante: Israele possiede 70-90 testate ma non ha definito pubblicamente la soglia esistenziale che ne legittimerebbe l'uso, rendendo lo scenario imprevedibile per tutti gli attori regionali."
+    ],
+    "note": "Il video si riferisce a un conflitto USA-Israele-Iran in corso con operazioni iniziate attorno al 28 febbraio 2026, inclusa l'eliminazione di Khamenei: scenario posteriore al knowledge cutoff del modello (agosto 2025); l'analisi si basa esclusivamente sul transcript fornito. D07 incluso con rilevanza 1 pur in assenza delle manifestazioni elencate: il ruolo di Trump, Netanyahu e Hegseth come acceleratori di errori strategici è tema ricorrente, ma il driver è trattato in termini operativi (scelte sbagliate) anziché nelle forme specifiche elencate (guerra-scudo-giudiziario, commistione pubblico-privato, ecc.). D11 incluso con rilevanza 1: la Cina è beneficiaria passiva della crisi, non oggetto di un cambio di percezione attivo da parte europea o occidentale."
+  }
+]

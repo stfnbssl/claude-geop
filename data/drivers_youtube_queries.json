@@ -1,0 +1,96 @@
+{
+  "fonte": "Lucio Caracciolo - Intervista a Udine (9 maggio 2026)",
+  "generato_il": "2026-06-02",
+  "filtro_temporale": "YouTube upload = Quest'anno (sp=EgIIBQ%3D%3D)",
+  "nota": "YouTube non supporta filtri data testuali: il periodo e' nel parametro URL sp.",
+  "master": {
+    "query": "\"geopolitica\" AND (\"fine dell'impero americano\" OR \"crisi della NATO\" OR \"controllo degli stretti\" OR \"armi autonome\" OR \"rivoluzione demografica\" OR \"guerra perpetua\" OR \"Trump Putin Netanyahu\" OR \"religione e potere\" OR \"autonomia strategica europea\" OR \"Turchia potenza regionale\" OR \"Cina opportunità\" OR \"Italia Mediterraneo Medioceania\")",
+    "url": "https://www.youtube.com/results?search_query=%22geopolitica%22%20AND%20%28%22fine%20dell%27impero%20americano%22%20OR%20%22crisi%20della%20NATO%22%20OR%20%22controllo%20degli%20stretti%22%20OR%20%22armi%20autonome%22%20OR%20%22rivoluzione%20demografica%22%20OR%20%22guerra%20perpetua%22%20OR%20%22Trump%20Putin%20Netanyahu%22%20OR%20%22religione%20e%20potere%22%20OR%20%22autonomia%20strategica%20europea%22%20OR%20%22Turchia%20potenza%20regionale%22%20OR%20%22Cina%20opportunit%C3%A0%22%20OR%20%22Italia%20Mediterraneo%20Medioceania%22%29&sp=EgIIBQ%3D%3D"
+  },
+  "per_driver": [
+    {
+      "id": "D01",
+      "nome": "Declino dell'impero globale americano",
+      "query": "\"geopolitica\" AND (\"fine impero\" OR \"declino USA\" OR \"egemonia\" OR \"ordine mondiale\")",
+      "url": "https://www.youtube.com/results?search_query=%22geopolitica%22%20AND%20%28%22fine%20impero%22%20OR%20%22declino%20USA%22%20OR%20%22egemonia%22%20OR%20%22ordine%20mondiale%22%29&sp=EgIIBQ%3D%3D",
+      "salva_come": "youtube driver D01.md"
+    },
+    {
+      "id": "D02",
+      "nome": "Scisma Occidente (USA vs Europa / Europa interna)",
+      "query": "\"geopolitica\" AND (\"NATO\" OR \"scisma\" OR \"riarmo europeo\" OR \"autonomia strategica\")",
+      "url": "https://www.youtube.com/results?search_query=%22geopolitica%22%20AND%20%28%22NATO%22%20OR%20%22scisma%22%20OR%20%22riarmo%20europeo%22%20OR%20%22autonomia%20strategica%22%29&sp=EgIIBQ%3D%3D",
+      "salva_come": "youtube driver D02.md"
+    },
+    {
+      "id": "D03",
+      "nome": "Controllo degli stretti (choke points) come vulnerabilità esistenziale",
+      "query": "\"geopolitica\" AND (\"stretto\" OR \"choke point\" OR \"Hormuz\" OR \"Suez\" OR \"Medioceania\")",
+      "url": "https://www.youtube.com/results?search_query=%22geopolitica%22%20AND%20%28%22stretto%22%20OR%20%22choke%20point%22%20OR%20%22Hormuz%22%20OR%20%22Suez%22%20OR%20%22Medioceania%22%29&sp=EgIIBQ%3D%3D",
+      "salva_come": "youtube driver D03.md"
+    },
+    {
+      "id": "D04",
+      "nome": "Rivoluzione tecnologica militare (armi autonome e IA)",
+      "query": "\"geopolitica\" AND (\"IA\" OR \"armi autonome\" OR \"guerra dei robot\" OR \"AI militare\")",
+      "url": "https://www.youtube.com/results?search_query=%22geopolitica%22%20AND%20%28%22IA%22%20OR%20%22armi%20autonome%22%20OR%20%22guerra%20dei%20robot%22%20OR%20%22AI%20militare%22%29&sp=EgIIBQ%3D%3D",
+      "salva_come": "youtube driver D04.md"
+    },
+    {
+      "id": "D05",
+      "nome": "Rivoluzione demografica asimmetrica",
+      "query": "\"geopolitica\" AND (\"demografia\" OR \"invecchiamento\" OR \"migrazioni\" OR \"reclutamento\")",
+      "url": "https://www.youtube.com/results?search_query=%22geopolitica%22%20AND%20%28%22demografia%22%20OR%20%22invecchiamento%22%20OR%20%22migrazioni%22%20OR%20%22reclutamento%22%29&sp=EgIIBQ%3D%3D",
+      "salva_come": "youtube driver D05.md"
+    },
+    {
+      "id": "D06",
+      "nome": "Guerra come nevrosi (fatta per essere fatta, non per essere vinta)",
+      "query": "\"geopolitica\" AND (\"guerra perpetua\" OR \"nevrosi\" OR \"gloria\" OR \"guerra per la guerra\")",
+      "url": "https://www.youtube.com/results?search_query=%22geopolitica%22%20AND%20%28%22guerra%20perpetua%22%20OR%20%22nevrosi%22%20OR%20%22gloria%22%20OR%20%22guerra%20per%20la%20guerra%22%29&sp=EgIIBQ%3D%3D",
+      "salva_come": "youtube driver D06.md"
+    },
+    {
+      "id": "D07",
+      "nome": "Leader come acceleratori di crisi strutturali",
+      "query": "\"geopolitica\" AND (\"Trump\" OR \"Putin\" OR \"Netanyahu\" OR \"Papa Prevost\" OR \"leadership\")",
+      "url": "https://www.youtube.com/results?search_query=%22geopolitica%22%20AND%20%28%22Trump%22%20OR%20%22Putin%22%20OR%20%22Netanyahu%22%20OR%20%22Papa%20Prevost%22%20OR%20%22leadership%22%29&sp=EgIIBQ%3D%3D",
+      "salva_come": "youtube driver D07.md"
+    },
+    {
+      "id": "D08",
+      "nome": "Religione come mappa operativa per il potere territoriale",
+      "query": "\"geopolitica\" AND (\"religione\" OR \"missione divina\" OR \"Israele biblico\" OR \"eccezionalismo\")",
+      "url": "https://www.youtube.com/results?search_query=%22geopolitica%22%20AND%20%28%22religione%22%20OR%20%22missione%20divina%22%20OR%20%22Israele%20biblico%22%20OR%20%22eccezionalismo%22%29&sp=EgIIBQ%3D%3D",
+      "salva_come": "youtube driver D08.md"
+    },
+    {
+      "id": "D09",
+      "nome": "Fine del vincolo esterno per l'Europa",
+      "query": "\"geopolitica\" AND (\"Europa\" OR \"vincolo esterno\" OR \"responsabilità\" OR \"autonomia\")",
+      "url": "https://www.youtube.com/results?search_query=%22geopolitica%22%20AND%20%28%22Europa%22%20OR%20%22vincolo%20esterno%22%20OR%20%22responsabilit%C3%A0%22%20OR%20%22autonomia%22%29&sp=EgIIBQ%3D%3D",
+      "salva_come": "youtube driver D09.md"
+    },
+    {
+      "id": "D10",
+      "nome": "Turchia come nuovo perno geopolitico",
+      "query": "\"geopolitica\" AND (\"Turchia\" OR \"Erdogan\" OR \"Cipro\" OR \"Damasco\" OR \"Israele\")",
+      "url": "https://www.youtube.com/results?search_query=%22geopolitica%22%20AND%20%28%22Turchia%22%20OR%20%22Erdogan%22%20OR%20%22Cipro%22%20OR%20%22Damasco%22%20OR%20%22Israele%22%29&sp=EgIIBQ%3D%3D",
+      "salva_come": "youtube driver D10.md"
+    },
+    {
+      "id": "D11",
+      "nome": "Cina percepita come opportunità (non più minaccia)",
+      "query": "\"geopolitica\" AND (\"Cina\" OR \"opportunità\" OR \"de-risking\" OR \"investimenti\" OR \"BRICS\")",
+      "url": "https://www.youtube.com/results?search_query=%22geopolitica%22%20AND%20%28%22Cina%22%20OR%20%22opportunit%C3%A0%22%20OR%20%22de-risking%22%20OR%20%22investimenti%22%20OR%20%22BRICS%22%29&sp=EgIIBQ%3D%3D",
+      "salva_come": "youtube driver D11.md"
+    },
+    {
+      "id": "D12",
+      "nome": "Italia come 'Medioceania' (vulnerabilità e potenziale inespresso)",
+      "query": "\"geopolitica\" AND (\"Italia\" OR \"Mediterraneo\" OR \"Medioceania\" OR \"stretti\" OR \"porti\")",
+      "url": "https://www.youtube.com/results?search_query=%22geopolitica%22%20AND%20%28%22Italia%22%20OR%20%22Mediterraneo%22%20OR%20%22Medioceania%22%20OR%20%22stretti%22%20OR%20%22porti%22%29&sp=EgIIBQ%3D%3D",
+      "salva_come": "youtube driver D12.md"
+    }
+  ]
+}
